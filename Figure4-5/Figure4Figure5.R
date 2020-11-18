@@ -16,8 +16,6 @@ suppressMessages(library(mixtools))
 
 options(stringsAsFactors = FALSE)
 
-setwd("~/scanem_pytorch/data_gen/FigureGithub/Figure4-5/")
-
 suppressMessages(source("../scanem_helper_functions.R"))
 heatmap_colors <- colorRampPalette(c("magenta", "black", "yellow"))(100)
 
@@ -475,7 +473,7 @@ pheatmap::pheatmap(celltypes_mean_LOO_z[order(row_annot$`Motif cluster annotatio
 graphics.off()
 
 
-# Fig. 5d =====
+# Fig. 5c =====
 ggplot(all_cluster_mean_exps_df, aes(x=cluster_annot, y=corr, color=expression_2)) +
   geom_jitter(width = 0) + 
   geom_label_repel(label=all_cluster_mean_exps_df$tf_labels, size=4) +
@@ -483,7 +481,7 @@ ggplot(all_cluster_mean_exps_df, aes(x=cluster_annot, y=corr, color=expression_2
   theme_Nice() + theme(legend.position = "right") +
   labs(x="Motif cluster name", 
        y="Spearman R", color="Mean TF expression across pools")
-ggsave(filename=paste0(outdir, "/Fig5d.pdf"), 
+ggsave(filename=paste0(outdir, "/Fig5c.pdf"), 
        width = 11, height=6, useDingbats=FALSE)
 
 
@@ -705,8 +703,160 @@ pheatmap(cor(t(all_LOO_mat_selection_aggregates), method="spearman"),
 graphics.off()
 
 
+# GO term analysis: correlations of motif influence scores with expression of GO-term related genes:
+GO_terms <- readLines("data/go_scfind.tsv")
+names(GO_terms) <- sapply(GO_terms, FUN=function(x){return(str_split(x, "\t")[[1]][1])})
+GO_terms <- sapply(GO_terms, FUN=function(x){
+  str_split(str_split(x, "\t")[[1]][2], ",")[[1]]
+})
+curr_GO_lengths <- c()
+pb <- txtProgressBar(0, length(GO_terms), style=3)
+for(i in 1:length(GO_terms)){
+  curr_GO_name <- names(GO_terms)[i]
+  curr_GO_genes <- GO_terms[[i]]
+  curr_GO_genes <- unique(curr_GO_genes[curr_GO_genes %in% rownames(curr_sce)])
+  curr_GO_length <- length(curr_GO_genes)
+  curr_GO_lengths <- c(curr_GO_lengths, curr_GO_length)
+  setTxtProgressBar(pb, i)
+}
+
+# Select GO terms with at least 1 gene and fewer than 50 genes in set (that are found
+# in the current experiment)
+GO_selection <- GO_terms[which(curr_GO_lengths < 50 & curr_GO_lengths > 0)]
+curr_GO_lengths_selection <- curr_GO_lengths[curr_GO_lengths < 50 & curr_GO_lengths > 0]
+GO_selection_corrs <- list()
+GO_selection_pvals <- list()
+pb <- txtProgressBar(0, length(GO_selection), style=3)
+for(j in 1:length(GO_selection)){ # Correlate expression of GO term genes to motif influence scores. This can take a while
+  curr_GO_name <- names(GO_selection)[j]
+  curr_GO_genes <- GO_selection[[j]]
+  curr_GO_genes <- unique(curr_GO_genes[curr_GO_genes %in% rownames(curr_sce)])
+  curr_GO_expression <- colMeans(logcounts(curr_sce[curr_GO_genes,]))
+  
+  curr_GO_corrs <- c()
+  curr_GO_pvals <- c()
+  for(i in 1:length(unique(all_LOO_mat_selection_aggregates_melt$`Motif cluster annotation`))){
+    curr_cluster_annot <- unique(all_LOO_mat_selection_aggregates_melt$`Motif cluster annotation`)[i]
+    curr_melt_aggregates <- all_LOO_mat_selection_aggregates_melt[all_LOO_mat_selection_aggregates_melt$`Motif cluster annotation` == curr_cluster_annot,]
+    curr_GO_corrs <- c(curr_GO_corrs, cor(curr_melt_aggregates$`Aggregate of motif influence scores`, curr_GO_expression, 
+                                          method="spearman"))
+    curr_GO_pvals <- c(curr_GO_pvals, p.adjust(cor.test(curr_melt_aggregates$`Aggregate of motif influence scores`, 
+                                                        curr_GO_expression, 
+                                                        method="spearman", 
+                                                        exact = FALSE)$p.value, method="fdr"))
+  }
+  names(curr_GO_corrs) <- unique(all_LOO_mat_selection_aggregates_melt$`Motif cluster annotation`)
+  names(curr_GO_pvals) <- names(curr_GO_corrs)
+  
+  GO_selection_corrs[[j]] <- curr_GO_corrs
+  GO_selection_pvals[[j]] <- curr_GO_pvals
+  
+  setTxtProgressBar(pb, j)
+}
+names(GO_selection_corrs) <- names(GO_selection)
+names(GO_selection_pvals) <- names(GO_selection)
+
+GO_melt <- melt(GO_selection_corrs)
+GO_melt$motif_family <- names(GO_selection_corrs[[1]])
+GO_melt_p <- melt(GO_selection_pvals)
+GO_melt$p_corr <- GO_melt_p$value
+colnames(GO_melt) <- c("Spearman R", "GO term", "Motif cluster annotation", "Corrected p-value")
+GO_melt_cast <- dcast(GO_melt, formula=`GO term`~`Motif cluster annotation`, value.var="Spearman R")
+rownames(GO_melt_cast) <- GO_melt_cast[,1]
+GO_melt_cast <- GO_melt_cast[,-c(1)]
+
+GO_melt_cast_pval <- dcast(GO_melt, formula=`GO term`~`Motif cluster annotation`, value.var="Corrected p-value")
+GO_melt_cast_pval <- as.data.frame(GO_melt_cast_pval)
+rownames(GO_melt_cast_pval) <- GO_melt_cast_pval[,1]
+GO_melt_cast_pval <- GO_melt_cast_pval[,-c(1)]
+
+bottom_top_quantiles <- quantile(as.numeric(unlist(GO_melt_cast)), c(0.01, 0.99))
+has_no_significant <- apply(GO_melt_cast, 1, FUN=function(x){
+  return((sum(x < bottom_top_quantiles[1]) + 
+            sum(x > bottom_top_quantiles[2])) 
+         == 0)
+})
+sum(!has_no_significant)
+
+# Cluster annotation
+clust_annot <- cutree(hclust(dist(GO_melt_cast[!has_no_significant,])), k=2)
+GO_row_annot <- data.frame(row.names=names(clust_annot),
+                           "GO term cluster"=as.character(clust_annot))
+colnames(GO_row_annot) <- "GO term cluster"
+GO_row_annot_col <- list(
+  "GO term cluster" = stata_pal()(2)
+)
+names(GO_row_annot_col$`GO term cluster`) <- c("1", "2")
 
 
 # Fig 5b =====
+pheatmap::pheatmap(GO_melt_cast[!has_no_significant,],
+                   show_rownames = FALSE, border_color = NA,
+                   color=heatmap_colors, cellwidth = 12,
+                   angle_col = 45, cellheight = .2, 
+                   annotation_row = GO_row_annot, 
+                   annotation_colors = GO_row_annot_col,
+                   filename = paste0(outdir, "/Fig5b.pdf"),
+                   useDingbats=FALSE)
+graphics.off()
+significant_cluster <- cutree(hclust(dist(GO_melt_cast[!has_no_significant,])), k=2)
+# The annotation for GO terms was added in Illustrator, and it was found by sampling from these two:
+cat(names(significant_cluster[significant_cluster == 1])[sample(length(significant_cluster[significant_cluster == 1]), size=10)], sep="\n")
+cat(names(significant_cluster[significant_cluster == 2])[sample(length(significant_cluster[significant_cluster == 2]), size=10)], sep="\n")
 
+
+# Supplementary figs ==================
+# Tbx Zfp143 Bach2
+
+row_annot$`Motif cluster annotation`[row_annot$`Motif cluster annotation` == "Zfp143/Tbx2/Six5/Smarcc2"] <- "Zfp143/Tbx2/Six5"
+
+# Motif weight / FUBP1 expression plot
+Zfp143Tbx2Six5_agg_across_pools <- colSums(all_LOO_mat_selection[row_annot$`Motif cluster annotation` == "Zfp143/Tbx2/Six5",])
+Tbx2_exp_across_pools <- logcounts(curr_sce)["Tbx2",]
+Tbx2_corr_df <- data.frame(agg_LOO = Zfp143Tbx2Six5_agg_across_pools, 
+                           exp=Tbx2_exp_across_pools, 
+                           cat=curr_colData$Category)
+
+Tbx2_plot <- ggplot(Tbx2_corr_df, aes(x=agg_LOO, y=exp, color=cat)) +
+  geom_point() + theme_bw(base_size=14) +
+  theme_Nice(angled = FALSE) +
+  labs(color="Category", 
+       x="Zfp143/Tbx2/Six5", 
+       y="Tbx2 expression") + 
+  scale_color_stata() + theme(aspect.ratio=1) + scale_x_continuous(breaks=c(0.1,0.2,0.3))
+
+Zfp143_exp_across_pools <- logcounts(curr_sce)["Zfp143",]
+Zfp143_corr_df <- data.frame(agg_LOO = Zfp143Tbx2Six5_agg_across_pools, 
+                             exp=Zfp143_exp_across_pools, 
+                             cat=curr_colData$Category)
+Zfp143_plot <- ggplot(Zfp143_corr_df, aes(x=agg_LOO, y=exp, color=cat)) +
+  geom_point() + theme_bw(base_size=14) +
+  theme_Nice(angled = FALSE) +
+  labs(color="Category", 
+       x="Zfp143/Tbx2/Six5", 
+       y="Zfp143 expression") + 
+  scale_color_stata() + theme(aspect.ratio=1) + scale_x_continuous(breaks=c(0.2,0.3))
+
+bHLHbZIPfamily1_agg_across_pools <- colSums(all_LOO_mat_selection[row_annot$`Motif cluster annotation` == "bHLH/bZIP family 1",])
+Bach2_exp_across_pools <- logcounts(curr_sce)["Bach2",]
+Bach2_corr_df <- data.frame(agg_LOO = bHLHbZIPfamily1_agg_across_pools, 
+                            exp=Bach2_exp_across_pools, 
+                            cat=curr_colData$Category)
+
+Bach2_plot <- ggplot(Bach2_corr_df, aes(x=agg_LOO, y=exp, color=cat)) +
+  geom_point() + theme_bw(base_size=14) +
+  theme_Nice(angled = FALSE) + theme(legend.position="right") +
+  labs(color="Category", 
+       x="bHLH/bZIP family 1", 
+       y="Bach2 expression") + 
+  scale_color_stata() + theme(aspect.ratio=1) + scale_x_continuous(breaks = round(seq(0.5, 1, by = 0.25),2))
+
+# Fig 5d =====
+Tbx2_plot | Zfp143_plot | Bach2_plot # requires "patchwork" package
+ggsave(paste0(outdir, "/Fig5d.pdf"), width=8, height=4, useDingbats=FALSE)
+
+# Correlations were added using 
+cor(Tbx2_corr_df$agg_LOO, Tbx2_corr_df$exp, method="spearman")
+cor(Zfp143_corr_df$agg_LOO, Zfp143_corr_df$exp, method="spearman")
+cor(Bach2_corr_df$agg_LOO, Bach2_corr_df$exp, method="spearman")
 
