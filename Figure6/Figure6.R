@@ -16,6 +16,8 @@ suppressMessages(library(mixtools))
 
 options(stringsAsFactors = FALSE)
 
+setwd("~/scanem_pytorch/data_gen/FigureGithub/Figure6/")
+
 suppressMessages(source("../scanem_helper_functions.R"))
 heatmap_colors <- colorRampPalette(c("magenta", "black", "yellow"))(100)
 
@@ -858,6 +860,7 @@ CV_df <- data.frame(meancv=c(res1_mean_cv, res2_mean_cv),
                     experiment = factor(c(rep("P0", length(res1_mean_cv)), rep("Adult", length(res2_mean_cv))), levels=c("P0", "Adult")),
                     motif_family = c(unique(row_annot_P0$`Motif cluster annotation`), unique(row_annot_ADULT$`Motif cluster annotation`)))
 
+
 # Fig 6e =====
 CV_df[CV_df$motif_family %in% intersect(names(res1_mean_cv), names(res2_mean_cv)),] %>%
   ggplot(aes(x=motif_family, y=meancv, fill=experiment)) +
@@ -867,3 +870,10 @@ CV_df[CV_df$motif_family %in% intersect(names(res1_mean_cv), names(res2_mean_cv)
   scale_fill_stata()
 ggsave(filename=paste0(outdir, "Fig6e.pdf"),
        width=4.5, height=4.5)
+
+
+# Fig 6d was plotted using Tomtom from the MEME suite:
+# Shobhit Gupta, JA Stamatoyannopolous, Timothy Bailey and William Stafford Noble, 
+# "Quantifying similarity between motifs", Genome Biology, 8(2):R24, 2007. 
+# Afterwards, it was formatted using Illustrator 
+
