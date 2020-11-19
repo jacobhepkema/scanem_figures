@@ -1,1 +1,1 @@
-# scanem_figures
+# scover_figures
