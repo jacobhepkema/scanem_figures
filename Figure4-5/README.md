@@ -1,4 +1,4 @@
-# How to run this script
+# Creating Figure 4 and 5
 
 Download `` from 
 [this page](https://scover-figures-data.cog.sanger.ac.uk/browser.html) and place in `scover_output` folder.
