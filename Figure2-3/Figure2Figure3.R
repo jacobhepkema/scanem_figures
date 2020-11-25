@@ -14,7 +14,7 @@ suppressMessages(library(patchwork))
 
 options(stringsAsFactors = FALSE)
 
-suppressMessages(source("../scanem_helper_functions.R"))
+suppressMessages(source("../scover_helper_functions.R"))
 
 outdir <- "output/"
 dir.create(outdir)
@@ -82,7 +82,7 @@ curr_sce <- curr_sce[,!is.na(curr_sce$Celltype)]
 num_celltypes <- length(unique(curr_sce$Celltype))
 
 # Network output: "leave-one-out" (LOO) influence scores for 10 different models
-influence_scores_hdf5 <- H5Fopen("scanem_output/All_leave_one_out_change_HDF5_combined_matfet_pool120_5u5d_600mot.h5")
+influence_scores_hdf5 <- H5Fopen("scover_output/All_leave_one_out_change_HDF5_combined_matfet_pool120_5u5d_600mot.h5")
 prefixes <- unique(sapply(h5ls(influence_scores_hdf5)$name, function(x) {str_split(x, "_")[[1]][2] } ))
 d <- 600 # Number of motifs in model
 all_LOO <- list()
@@ -106,7 +106,7 @@ motif_codes <- sapply(db, FUN=function(x){ str_split(x, " ")[[1]][2] })
 motif_names <- sapply(db, FUN=function(x){ str_split(x, " ")[[1]][3] })
 names(motif_names) <- motif_codes
 # Loading tomtom alignments
-all_tom_table <- read.delim("scanem_output/all_tomtom/tomtom.tsv", sep="\t",quote = "", header = T, 
+all_tom_table <- read.delim("scover_output/all_tomtom/tomtom.tsv", sep="\t",quote = "", header = T, 
                             comment.char = "#")
 all_tom_table$Target_ID <- motif_names[all_tom_table$Target_ID]
 all_tom_table$Target_ID <- sapply(all_tom_table$Target_ID, function(x){
@@ -329,7 +329,7 @@ pheatmap::pheatmap(celltypes_mean_LOO_z[order(row_annot$`Motif cluster annotatio
 
 # Read activations scores
 
-motif_hdf5 <- H5Fopen("scanem_output/20201020_All_motif_activations_HDF5_combined_matfet_pool120_5u5d_600mot.h5")
+motif_hdf5 <- H5Fopen("scover_output/20201020_All_motif_activations_HDF5_combined_matfet_pool120_5u5d_600mot.h5")
 q <- h5ls(motif_hdf5)
 
 all_motif_activations <- list()
@@ -856,3 +856,9 @@ ggplot(all_cluster_mean_exps_df, aes(x=cluster_annot, y=corr, color=expression_2
        y="Spearman R", color="Mean TF expression across pools") 
 ggsave(filename=paste0(outdir, "/Fig3c.pdf"), 
        width = 12, height=6, useDingbats=FALSE)
+
+
+
+
+
+
