@@ -5,6 +5,7 @@ Download `20201020_All_motif_activations_HDF5_combined_matfet_pool120_5u5d_600mo
 
 Make sure the right R package versions are installed. See list of packages that I am using at the end of this page. 
 
+Then, run `Rscript Figure2Figure3.R` to create the plots in the `output` directory. 
 
 
 ## sessionInfo()
