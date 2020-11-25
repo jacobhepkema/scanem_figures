@@ -805,7 +805,6 @@ cat(names(significant_cluster[significant_cluster == 1])[sample(length(significa
 cat(names(significant_cluster[significant_cluster == 2])[sample(length(significant_cluster[significant_cluster == 2]), size=10)], sep="\n")
 
 
-# Supplementary figs ==================
 # Tbx Zfp143 Bach2
 
 # Motif weight / FUBP1 expression plot
