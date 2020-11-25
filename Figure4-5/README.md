@@ -3,7 +3,13 @@
 Download `All_motif_activations_HDF5_tm_all_7_organs_pool80_5u5d_600mot_3.h5` from 
 [this page](https://scover-figures-data.cog.sanger.ac.uk/browser.html) and place in `scover_output` folder.
 
-Make sure the right R package versions are installed. I am using:
+Make sure the right R package versions are installed. See list of packages that I am using at the end of this page. 
+
+Then, run `Rscript Figure4Figure5.R` to create the plots in the `output` directory. 
+
+## sessionInfo()
+
+I am using these R packages:
 
 ```
 ## R version 3.6.3 (2020-02-29)
