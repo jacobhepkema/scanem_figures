@@ -1,7 +1,7 @@
 # How to run this script
 
 Download `20201020_All_motif_activations_HDF5_combined_matfet_pool120_5u5d_600mot.h5` from 
-[this page](https://scover-figures-data.cog.sanger.ac.uk/browser.html) and place in `scanem_output` folder.
+[this page](https://scover-figures-data.cog.sanger.ac.uk/browser.html) and place in `scover_output` folder.
 
 Make sure the right R package versions are installed. I am using:
 
