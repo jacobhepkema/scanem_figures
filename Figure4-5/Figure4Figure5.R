@@ -16,7 +16,7 @@ suppressMessages(library(mixtools))
 
 options(stringsAsFactors = FALSE)
 
-suppressMessages(source("../scanem_helper_functions.R"))
+suppressMessages(source("../scover_helper_functions.R"))
 heatmap_colors <- colorRampPalette(c("magenta", "black", "yellow"))(100)
 
 outdir <- "output/"
@@ -88,7 +88,7 @@ curr_sce <- curr_sce[,!is.na(curr_sce$Celltype)]
 num_celltypes <- length(unique(curr_sce$Celltype))
 
 # Network output: "leave-one-out" (LOO) influence scores for 10 different models
-influence_scores_hdf5 <- H5Fopen("scanem_output/20201013_All_leave_change_HDF5_tm_all_7_organs_pool80_5u5d_600mot_3.h5")
+influence_scores_hdf5 <- H5Fopen("scover_output/20201013_All_leave_change_HDF5_tm_all_7_organs_pool80_5u5d_600mot_3.h5")
 q <- h5ls(influence_scores_hdf5)
 prefixes <- unique(sapply(q$name, function(x) {str_split(x, "_")[[1]][2] } ))
 d <- 600
@@ -116,7 +116,7 @@ motif_codes <- sapply(db, FUN=function(x){ str_split(x, " ")[[1]][2] })
 motif_names <- sapply(db, FUN=function(x){ str_split(x, " ")[[1]][3] })
 names(motif_names) <- motif_codes
 # Loading tomtom alignments
-all_tom_table <- read.delim("scanem_output/all_tomtom/tomtom.tsv", sep="\t",quote = "", header = T, 
+all_tom_table <- read.delim("scover_output/all_tomtom/tomtom.tsv", sep="\t",quote = "", header = T, 
                             comment.char = "#")
 all_tom_table$Target_ID <- motif_names[all_tom_table$Target_ID]
 all_tom_table$Target_ID <- sapply(all_tom_table$Target_ID, function(x){
@@ -309,6 +309,7 @@ row_annot$cluster_annot[row_annot$motif_cluster == 2] <- "Egr/KLF motif families
 # row_annot$cluster_annot[row_annot$motif_cluster == 10] <- "ETS motif family"
 row_annot$cluster_annot[row_annot$motif_cluster == 5] <- "bHLH/bZIP family"
 row_annot$cluster_annot[row_annot$motif_cluster == 16] <- "Yy1"
+row_annot$cluster_annot[row_annot$motif_cluster == 6] <- "Zfp143/Tbx2/Six5"
 
 colnames(row_annot) <- c("Motif cell type entropy", "Motif cluster", "Motif cluster reproducibility", 
                          "Motif cluster annotation")
@@ -458,7 +459,6 @@ for(i in 1:length(unique(all_cluster_mean_exps_df$cluster_annot))){
                                   all_cluster_mean_exps_df$TF %in% annot_tfs]
 }
 all_cluster_mean_exps_df$tf_labels[all_cluster_mean_exps_df$pval_fdr > 0.05] <- ""
-all_cluster_mean_exps_df$cluster_annot[all_cluster_mean_exps_df$cluster_annot == "Zfp143/Tbx2/Six5/Smarcc2"] <- "Zfp143/Tbx2/Six5"
 
 ann_colors$`Motif cluster annotation` <- ann_colors$`Motif cluster annotation 2`
 
@@ -498,7 +498,7 @@ colnames(pool_LOO_aggregates) <- colnames(all_LOO_mat)
 
 # Read activations scores
 
-motif_hdf5 <- H5Fopen("scanem_output/All_motif_activations_HDF5_tm_all_7_organs_pool80_5u5d_600mot_3.h5")
+motif_hdf5 <- H5Fopen("scover_output/All_motif_activations_HDF5_tm_all_7_organs_pool80_5u5d_600mot_3.h5")
 q <- h5ls(motif_hdf5)
 prefixes <- unique(sapply(q$name, function(x) {str_split(x, "_")[[1]][2] } ))
 
@@ -540,7 +540,6 @@ motifs_above_half_max <- apply(all_motif_activations_mat, 1, FUN=function(x){
 })
 motif_summary$motifs_above_half_max <- motifs_above_half_max[rownames(motif_summary)]
 
-row_annot$`Motif cluster annotation 2`[row_annot$`Motif cluster annotation 2` == "Zfp143/Tbx2/Six5/Smarcc2"] <- "Zfp143/Tbx2/Six5"
 row_annot$`Percentage of promoters activated` <- motifs_above_half_max[rownames(row_annot)]*100
 
 celltypes_mean_LOO_aggregates <- matrix(nrow=length(unique(row_annot$`Motif cluster annotation`)), ncol=ncol(celltypes_mean_LOO))
@@ -680,6 +679,7 @@ all_LOO_mat_selection_aggregates_melt$Category <- category_annot_tm[all_LOO_mat_
 all_LOO_mat_selection_aggregates_melt$`Motif cluster annotation` <- factor(x=as.character(all_LOO_mat_selection_aggregates_melt$`Motif cluster annotation`),
                                                                            levels=unique(as.character(all_LOO_mat_selection_aggregates_melt$`Motif cluster annotation`))[order(unique(as.character(all_LOO_mat_selection_aggregates_melt$`Motif cluster annotation`)))])
 
+
 # Fig 5a =====
 ggplot(all_LOO_mat_selection_aggregates_melt, 
        aes(x=reorder_within(Category,`Aggregate of motif influence scores`,`Motif cluster annotation`), y=`Aggregate of motif influence scores`, 
@@ -808,8 +808,6 @@ cat(names(significant_cluster[significant_cluster == 2])[sample(length(significa
 # Supplementary figs ==================
 # Tbx Zfp143 Bach2
 
-row_annot$`Motif cluster annotation`[row_annot$`Motif cluster annotation` == "Zfp143/Tbx2/Six5/Smarcc2"] <- "Zfp143/Tbx2/Six5"
-
 # Motif weight / FUBP1 expression plot
 Zfp143Tbx2Six5_agg_across_pools <- colSums(all_LOO_mat_selection[row_annot$`Motif cluster annotation` == "Zfp143/Tbx2/Six5",])
 Tbx2_exp_across_pools <- logcounts(curr_sce)["Tbx2",]
@@ -859,4 +857,3 @@ ggsave(paste0(outdir, "/Fig5d.pdf"), width=8, height=4, useDingbats=FALSE)
 cor(Tbx2_corr_df$agg_LOO, Tbx2_corr_df$exp, method="spearman")
 cor(Zfp143_corr_df$agg_LOO, Zfp143_corr_df$exp, method="spearman")
 cor(Bach2_corr_df$agg_LOO, Bach2_corr_df$exp, method="spearman")
-
