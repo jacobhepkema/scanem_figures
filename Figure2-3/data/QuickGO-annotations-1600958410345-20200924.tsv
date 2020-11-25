@@ -1,0 +1,667 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	QUALIFIER	GO TERM	GO NAME	ECO ID	GO EVIDENCE CODE	REFERENCE	WITH/FROM	TAXON ID	ASSIGNED BY	ANNOTATION EXTENSION	GO ASPECT
+UniProtKB	A0A087X6H0	A0A087X6H0	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	48698	Ensembl		P
+UniProtKB	A0A087XGS7	A0A087XGS7	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	48698	Ensembl		P
+UniProtKB	A0A087XJA0	A0A087XJA0	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	48698	Ensembl		P
+UniProtKB	A0A087XLX1	A0A087XLX1	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	48698	Ensembl		P
+UniProtKB	A0A087Y1G8	A0A087Y1G8	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	48698	Ensembl		P
+UniProtKB	A0A087YEN3	A0A087YEN3	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	48698	Ensembl		P
+UniProtKB	A0A091DGH3	H920_09208	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	885580	Ensembl		P
+UniProtKB	A0A091EB63	H920_06072	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	885580	Ensembl		P
+UniProtKB	A0A093PZV0	N305_05306	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	328815	Ensembl		P
+UniProtKB	A0A093PZV0	N305_05306	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	328815	Ensembl		P
+UniProtKB	A0A096LXM2	A0A096LXM2	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	48698	Ensembl		P
+UniProtKB	A0A096MWR9	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	9555	Ensembl		P
+UniProtKB	A0A096MXY9	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	9555	Ensembl		P
+UniProtKB	A0A096MZ51	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	9555	Ensembl		P
+UniProtKB	A0A096N1K5	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	9555	Ensembl		P
+UniProtKB	A0A096NL12	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	9555	Ensembl		P
+UniProtKB	A0A0D9QUZ8	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	60711	Ensembl		P
+UniProtKB	A0A0D9RF52	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	60711	Ensembl		P
+UniProtKB	A0A0D9RQJ5	A0A0D9RQJ5	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	60711	Ensembl		P
+UniProtKB	A0A0D9RQJ5	A0A0D9RQJ5	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	60711	Ensembl		P
+UniProtKB	A0A0D9S5Z9	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	60711	Ensembl		P
+UniProtKB	A0A0D9S7P1	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	60711	Ensembl		P
+UniProtKB	A0A0P6JED8	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	10181	Ensembl		P
+UniProtKB	A0A140VJX1	A0A140VJX1	involved_in	GO:0072229	metanephric proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P17764|ensembl:ENSRNOP00000010573	9606	Ensembl		P
+UniProtKB	A0A146YVX6	A0A146YVX6	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	8078	Ensembl		P
+UniProtKB	A0A1A7ZG37	IFT88	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	105023	Ensembl		P
+UniProtKB	A0A1D5PIC8	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	9031	Ensembl		P
+UniProtKB	A0A1S3F6L2	Heyl	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	10020	Ensembl		P
+UniProtKB	A0A1S3GQN6	Aqp1	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	10020	Ensembl		P
+UniProtKB	A0A1S3GQN6	Aqp1	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	10020	Ensembl		P
+UniProtKB	A0A1S3LV62	ift74	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	8030	Ensembl		P
+UniProtKB	A0A1U7Q9P5	Aqp11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	10036	Ensembl		P
+UniProtKB	A0A1U7QM61	Aqp1	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	10036	Ensembl		P
+UniProtKB	A0A1U7QM61	Aqp1	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	10036	Ensembl		P
+UniProtKB	A0A1U7QR83	Heyl	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	10036	Ensembl		P
+UniProtKB	A0A1U7QY57	Pkd1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	10036	Ensembl		P
+UniProtKB	A0A1U7THV7	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	1868482	Ensembl		P
+UniProtKB	A0A1U8CIQ9	Notch2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	10036	Ensembl		P
+UniProtKB	A0A218UE79	AQP1	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	299123	Ensembl		P
+UniProtKB	A0A218UE79	AQP1	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	299123	Ensembl		P
+UniProtKB	A0A218UHD1	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	299123	Ensembl		P
+UniProtKB	A0A250YE95	AQP1	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	51338	Ensembl		P
+UniProtKB	A0A250YE95	AQP1	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	51338	Ensembl		P
+UniProtKB	A0A286XLK1	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	10141	Ensembl		P
+UniProtKB	A0A2D0QFN0	LOC108260405	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	7998	Ensembl		P
+UniProtKB	A0A2D0QMW1	pkd2	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	7998	Ensembl		P
+UniProtKB	A0A2D0QQG8	osr1	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	7998	Ensembl		P
+UniProtKB	A0A2D0R7L2	ift88	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	7998	Ensembl		P
+UniProtKB	A0A2I2UAM6	AQP1	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9685	Ensembl		P
+UniProtKB	A0A2I2UAM6	AQP1	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9685	Ensembl		P
+UniProtKB	A0A2I3GAD8	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	61853	Ensembl		P
+UniProtKB	A0A2I3I014	AQP1	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	61853	Ensembl		P
+UniProtKB	A0A2I3I014	AQP1	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	61853	Ensembl		P
+UniProtKB	A0A2I3LZP0	A0A2I3LZP0	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9555	Ensembl		P
+UniProtKB	A0A2I3LZP0	A0A2I3LZP0	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9555	Ensembl		P
+UniProtKB	A0A2J8JA34	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	9598	Ensembl		P
+UniProtKB	A0A2J8SA08	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	9601	Ensembl		P
+UniProtKB	A0A2K5C2W3	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	37293	Ensembl		P
+UniProtKB	A0A2K5CB87	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	37293	Ensembl		P
+UniProtKB	A0A2K5CKN2	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	37293	Ensembl		P
+UniProtKB	A0A2K5CXH6	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	37293	Ensembl		P
+UniProtKB	A0A2K5E5A2	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	37293	Ensembl		P
+UniProtKB	A0A2K5HBW4	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	336983	Ensembl		P
+UniProtKB	A0A2K5HWJ7	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	336983	Ensembl		P
+UniProtKB	A0A2K5JCZ4	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	336983	Ensembl		P
+UniProtKB	A0A2K5JVD4	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	336983	Ensembl		P
+UniProtKB	A0A2K5K5V5	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	336983	Ensembl		P
+UniProtKB	A0A2K5KQM4	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	9531	Ensembl		P
+UniProtKB	A0A2K5LYC7	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	9531	Ensembl		P
+UniProtKB	A0A2K5MVS5	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	9531	Ensembl		P
+UniProtKB	A0A2K5N361	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	9531	Ensembl		P
+UniProtKB	A0A2K5NLD8	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	9531	Ensembl		P
+UniProtKB	A0A2K5QD84	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	1737458	Ensembl		P
+UniProtKB	A0A2K5SJC3	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	1737458	Ensembl		P
+UniProtKB	A0A2K5TUZ0	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	9541	Ensembl		P
+UniProtKB	A0A2K5TYP7	A0A2K5TYP7	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9541	Ensembl		P
+UniProtKB	A0A2K5TYP7	A0A2K5TYP7	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9541	Ensembl		P
+UniProtKB	A0A2K5U7N0	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	9541	Ensembl		P
+UniProtKB	A0A2K5VUI3	EGM_00522	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	9541	Ensembl		P
+UniProtKB	A0A2K5W4T9	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	9541	Ensembl		P
+UniProtKB	A0A2K5X1M3	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	9541	Ensembl		P
+UniProtKB	A0A2K5XLP8	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	9568	Ensembl		P
+UniProtKB	A0A2K5Y0V4	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	9568	Ensembl		P
+UniProtKB	A0A2K6A4I5	A0A2K6A4I5	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9568	Ensembl		P
+UniProtKB	A0A2K6A4I5	A0A2K6A4I5	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9568	Ensembl		P
+UniProtKB	A0A2K6AS68	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	9545	Ensembl		P
+UniProtKB	A0A2K6B4X1	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	9545	Ensembl		P
+UniProtKB	A0A2K6BA81	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	9545	Ensembl		P
+UniProtKB	A0A2K6DWP2	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	9545	Ensembl		P
+UniProtKB	A0A2K6E3G1	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	9545	Ensembl		P
+UniProtKB	A0A2K6EF23	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	379532	Ensembl		P
+UniProtKB	A0A2K6EPG8	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	379532	Ensembl		P
+UniProtKB	A0A2K6ES72	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	379532	Ensembl		P
+UniProtKB	A0A2K6F514	A0A2K6F514	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	379532	Ensembl		P
+UniProtKB	A0A2K6F514	A0A2K6F514	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	379532	Ensembl		P
+UniProtKB	A0A2K6JMU0	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	61621	Ensembl		P
+UniProtKB	A0A2K6JV59	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	61621	Ensembl		P
+UniProtKB	A0A2K6JVP9	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	61621	Ensembl		P
+UniProtKB	A0A2K6MJG7	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	61621	Ensembl		P
+UniProtKB	A0A2K6N121	A0A2K6N121	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	61621	Ensembl		P
+UniProtKB	A0A2K6N121	A0A2K6N121	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	61621	Ensembl		P
+UniProtKB	A0A2K6N818	A0A2K6N818	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	61622	Ensembl		P
+UniProtKB	A0A2K6N818	A0A2K6N818	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	61622	Ensembl		P
+UniProtKB	A0A2K6PUS3	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	61622	Ensembl		P
+UniProtKB	A0A2K6Q4X1	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	61622	Ensembl		P
+UniProtKB	A0A2K6QH44	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	61622	Ensembl		P
+UniProtKB	A0A2K6RLD5	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	61622	Ensembl		P
+UniProtKB	A0A2K6RZK7	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	39432	Ensembl		P
+UniProtKB	A0A2K6T7L1	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	39432	Ensembl		P
+UniProtKB	A0A2K6TRN5	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	39432	Ensembl		P
+UniProtKB	A0A2K6V1D0	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	39432	Ensembl		P
+UniProtKB	A0A2R8MP89	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	9483	Ensembl		P
+UniProtKB	A0A2R8N817	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	9483	Ensembl		P
+UniProtKB	A0A2R8PW40	tbx2a	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000315	IMP	PMID:27840199	ZFIN:ZDB-MRPHLNO-140123-2	7955	ZFIN		P
+UniProtKB	A0A2R8QDU7	ift88	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000315	IMP	PMID:19127979	ZFIN:ZDB-MRPHLNO-050506-2	7955	ZFIN		P
+UniProtKB	A0A2R8QF28	mecom	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000315	IMP	PMID:24309209	ZFIN:ZDB-MRPHLNO-150410-1|ZFIN:ZDB-MRPHLNO-150424-1	7955	ZFIN		P
+UniProtKB	A0A2R8QFK0	ift88	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000315	IMP	PMID:19127979	ZFIN:ZDB-MRPHLNO-050506-2	7955	ZFIN		P
+UniProtKB	A0A2R8QRB2	ift88	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000315	IMP	PMID:19127979	ZFIN:ZDB-MRPHLNO-050506-2	7955	ZFIN		P
+UniProtKB	A0A2R8QSL6	ift88	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000315	IMP	PMID:19127979	ZFIN:ZDB-MRPHLNO-050506-2	7955	ZFIN		P
+UniProtKB	A0A2R9A8I0	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	9597	Ensembl		P
+UniProtKB	A0A2R9AJT7	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	9597	Ensembl		P
+UniProtKB	A0A2R9BEL7	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	9597	Ensembl		P
+UniProtKB	A0A2U9BN20	F2P81_010164	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	52904	Ensembl		P
+UniProtKB	A0A2U9CM18	SMAX5B_016912	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	52904	Ensembl		P
+UniProtKB	A0A2U9D2A7	SMAX5B_001626	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	52904	Ensembl		P
+UniProtKB	A0A2Y9FV45	AQP1	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9755	Ensembl		P
+UniProtKB	A0A2Y9FV45	AQP1	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9755	Ensembl		P
+UniProtKB	A0A2Y9MDP4	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	9749	Ensembl		P
+UniProtKB	A0A2Y9NDP6	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	9749	Ensembl		P
+UniProtKB	A0A2Y9P8Q3	AQP1	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9749	Ensembl		P
+UniProtKB	A0A2Y9P8Q3	AQP1	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9749	Ensembl		P
+UniProtKB	A0A2Y9PB45	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	9749	Ensembl		P
+UniProtKB	A0A2Y9Q230	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	9749	Ensembl		P
+UniProtKB	A0A2Y9SGX7	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	9755	Ensembl		P
+UniProtKB	A0A2Y9STJ1	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	9755	Ensembl		P
+UniProtKB	A0A315UZF0	CCH79_00004467	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	33528	Ensembl		P
+UniProtKB	A0A384BQ05	AQP1	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	29073	Ensembl		P
+UniProtKB	A0A384BQ05	AQP1	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	29073	Ensembl		P
+UniProtKB	A0A384DF03	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	29073	Ensembl		P
+UniProtKB	A0A384P5C6	A0A384P5C6	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	9606	Ensembl		P
+UniProtKB	A0A3B1INB0	A0A3B1INB0	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	7994	Ensembl		P
+UniProtKB	A0A3B1IUP9	A0A3B1IUP9	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	7994	Ensembl		P
+UniProtKB	A0A3B1K6H9	A0A3B1K6H9	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	7994	Ensembl		P
+UniProtKB	A0A3B3B561	A0A3B3B561	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	30732	Ensembl		P
+UniProtKB	A0A3B3BIJ6	A0A3B3BIJ6	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	30732	Ensembl		P
+UniProtKB	A0A3B3BYC3	A0A3B3BYC3	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	30732	Ensembl		P
+UniProtKB	A0A3B3CJ95	A0A3B3CJ95	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	30732	Ensembl		P
+UniProtKB	A0A3B3CZD5	A0A3B3CZD5	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	30732	Ensembl		P
+UniProtKB	A0A3B3HHH5	pkd2	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	8090	Ensembl		P
+UniProtKB	A0A3B3IB06	ift88	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	8090	Ensembl		P
+UniProtKB	A0A3B3Q397	A0A3B3Q397	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	1676925	Ensembl		P
+UniProtKB	A0A3B3QIW9	A0A3B3QIW9	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	1676925	Ensembl		P
+UniProtKB	A0A3B3R4Y3	A0A3B3R4Y3	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	1676925	Ensembl		P
+UniProtKB	A0A3B3RB16	A0A3B3RB16	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	1676925	Ensembl		P
+UniProtKB	A0A3B3RHR1	PPARGC1A	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	1676925	Ensembl		P
+UniProtKB	A0A3B3SXN7	A0A3B3SXN7	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	1676925	Ensembl		P
+UniProtKB	A0A3B3TIF5	A0A3B3TIF5	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	48699	Ensembl		P
+UniProtKB	A0A3B3TKD1	A0A3B3TKD1	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	48699	Ensembl		P
+UniProtKB	A0A3B3TS45	A0A3B3TS45	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	48699	Ensembl		P
+UniProtKB	A0A3B3U707	A0A3B3U707	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	48699	Ensembl		P
+UniProtKB	A0A3B3V2V0	A0A3B3V2V0	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	48699	Ensembl		P
+UniProtKB	A0A3B3V4T0	A0A3B3V4T0	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	48699	Ensembl		P
+UniProtKB	A0A3B3VLE4	A0A3B3VLE4	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1Q834|ensembl:ENSDARP00000080486	48699	Ensembl		P
+UniProtKB	A0A3B3VQ90	A0A3B3VQ90	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	48699	Ensembl		P
+UniProtKB	A0A3B3XIM1	A0A3B3XIM1	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	48701	Ensembl		P
+UniProtKB	A0A3B3Y341	A0A3B3Y341	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	48701	Ensembl		P
+UniProtKB	A0A3B3YPS1	A0A3B3YPS1	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	48701	Ensembl		P
+UniProtKB	A0A3B3YQG2	A0A3B3YQG2	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	48701	Ensembl		P
+UniProtKB	A0A3B3YRQ6	A0A3B3YRQ6	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	48701	Ensembl		P
+UniProtKB	A0A3B3YXL7	A0A3B3YXL7	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	48701	Ensembl		P
+UniProtKB	A0A3B3ZGA1	A0A3B3ZGA1	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	409849	Ensembl		P
+UniProtKB	A0A3B4A7U1	A0A3B4A7U1	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	409849	Ensembl		P
+UniProtKB	A0A3B4AHV0	A0A3B4AHV0	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1Q834|ensembl:ENSDARP00000080486	409849	Ensembl		P
+UniProtKB	A0A3B4AIW3	A0A3B4AIW3	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	409849	Ensembl		P
+UniProtKB	A0A3B4B2E2	A0A3B4B2E2	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	409849	Ensembl		P
+UniProtKB	A0A3B4BE75	A0A3B4BE75	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	409849	Ensembl		P
+UniProtKB	A0A3B4BR40	A0A3B4BR40	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	42514	Ensembl		P
+UniProtKB	A0A3B4BT18	A0A3B4BT18	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	42514	Ensembl		P
+UniProtKB	A0A3B4BZC0	A0A3B4BZC0	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	42514	Ensembl		P
+UniProtKB	A0A3B4CYX6	A0A3B4CYX6	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	42514	Ensembl		P
+UniProtKB	A0A3B4DPC9	A0A3B4DPC9	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	42514	Ensembl		P
+UniProtKB	A0A3B4DXK4	A0A3B4DXK4	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	42514	Ensembl		P
+UniProtKB	A0A3B4DZH9	A0A3B4DZH9	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	42514	Ensembl		P
+UniProtKB	A0A3B4FEA4	A0A3B4FEA4	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	303518	Ensembl		P
+UniProtKB	A0A3B4FSU9	A0A3B4FSU9	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1Q834|ensembl:ENSDARP00000080486	303518	Ensembl		P
+UniProtKB	A0A3B4FXN6	A0A3B4FXN6	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	303518	Ensembl		P
+UniProtKB	A0A3B4GRM5	A0A3B4GRM5	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	303518	Ensembl		P
+UniProtKB	A0A3B4GSZ8	A0A3B4GSZ8	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	303518	Ensembl		P
+UniProtKB	A0A3B4H3X3	A0A3B4H3X3	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	303518	Ensembl		P
+UniProtKB	A0A3B4H832	A0A3B4H832	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	303518	Ensembl		P
+UniProtKB	A0A3B4TAJ9	A0A3B4TAJ9	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	41447	Ensembl		P
+UniProtKB	A0A3B4TV13	A0A3B4TV13	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	41447	Ensembl		P
+UniProtKB	A0A3B4TXV6	A0A3B4TXV6	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	41447	Ensembl		P
+UniProtKB	A0A3B4UKZ1	A0A3B4UKZ1	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	41447	Ensembl		P
+UniProtKB	A0A3B4UQD5	A0A3B4UQD5	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	41447	Ensembl		P
+UniProtKB	A0A3B4V9N1	A0A3B4V9N1	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1Q834|ensembl:ENSDARP00000080486	41447	Ensembl		P
+UniProtKB	A0A3B4VGV5	A0A3B4VGV5	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	41447	Ensembl		P
+UniProtKB	A0A3B4VI87	A0A3B4VI87	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	41447	Ensembl		P
+UniProtKB	A0A3B4X084	A0A3B4X084	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	1841481	Ensembl		P
+UniProtKB	A0A3B4X462	A0A3B4X462	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1Q834|ensembl:ENSDARP00000080486	1841481	Ensembl		P
+UniProtKB	A0A3B4X7L6	A0A3B4X7L6	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	1841481	Ensembl		P
+UniProtKB	A0A3B4XF10	A0A3B4XF10	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	1841481	Ensembl		P
+UniProtKB	A0A3B4XGE4	A0A3B4XGE4	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	1841481	Ensembl		P
+UniProtKB	A0A3B4XZS3	A0A3B4XZS3	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	1841481	Ensembl		P
+UniProtKB	A0A3B4Y5M0	A0A3B4Y5M0	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	1841481	Ensembl		P
+UniProtKB	A0A3B4YFM2	A0A3B4YFM2	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	1841481	Ensembl		P
+UniProtKB	A0A3B4Z3W6	A0A3B4Z3W6	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	144197	Ensembl		P
+UniProtKB	A0A3B4ZMR8	A0A3B4ZMR8	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	144197	Ensembl		P
+UniProtKB	A0A3B4ZVF4	A0A3B4ZVF4	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	144197	Ensembl		P
+UniProtKB	A0A3B5A233	A0A3B5A233	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	144197	Ensembl		P
+UniProtKB	A0A3B5B325	A0A3B5B325	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	144197	Ensembl		P
+UniProtKB	A0A3B5BAL7	A0A3B5BAL7	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	144197	Ensembl		P
+UniProtKB	A0A3B5KU21	A0A3B5KU21	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	32473	Ensembl		P
+UniProtKB	A0A3B5L1T1	A0A3B5L1T1	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	32473	Ensembl		P
+UniProtKB	A0A3B5LDA9	A0A3B5LDA9	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	32473	Ensembl		P
+UniProtKB	A0A3B5LN87	A0A3B5LN87	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	32473	Ensembl		P
+UniProtKB	A0A3B5M753	A0A3B5M753	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1Q834|ensembl:ENSDARP00000080486	32473	Ensembl		P
+UniProtKB	A0A3B5MJM1	A0A3B5MJM1	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	32473	Ensembl		P
+UniProtKB	A0A3B5Q2X4	A0A3B5Q2X4	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	8083	Ensembl		P
+UniProtKB	A0A3B5QWQ7	A0A3B5QWQ7	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	8083	Ensembl		P
+UniProtKB	A0A3B5RB09	A0A3B5RB09	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	8083	Ensembl		P
+UniProtKB	A0A3L7I8J9	CgPICR_007052	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	10029	Ensembl		P
+UniProtKB	A0A3L8S9F4	DV515_00010701	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	44316	Ensembl		P
+UniProtKB	A0A3P8NPI0	A0A3P8NPI0	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	8154	Ensembl		P
+UniProtKB	A0A3P8NQW0	A0A3P8NQW0	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1Q834|ensembl:ENSDARP00000080486	8154	Ensembl		P
+UniProtKB	A0A3P8P133	A0A3P8P133	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	8154	Ensembl		P
+UniProtKB	A0A3P8P4R1	A0A3P8P4R1	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	8154	Ensembl		P
+UniProtKB	A0A3P8Q9S9	A0A3P8Q9S9	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	8154	Ensembl		P
+UniProtKB	A0A3P8QQ55	A0A3P8QQ55	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	8154	Ensembl		P
+UniProtKB	A0A3P8QWH6	A0A3P8QWH6	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	8154	Ensembl		P
+UniProtKB	A0A3P8S904	A0A3P8S904	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	161767	Ensembl		P
+UniProtKB	A0A3P8SEJ7	A0A3P8SEJ7	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	161767	Ensembl		P
+UniProtKB	A0A3P8SH94	A0A3P8SH94	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	161767	Ensembl		P
+UniProtKB	A0A3P8SWG9	A0A3P8SWG9	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	161767	Ensembl		P
+UniProtKB	A0A3P8T088	A0A3P8T088	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	161767	Ensembl		P
+UniProtKB	A0A3P8U430	A0A3P8U430	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	161767	Ensembl		P
+UniProtKB	A0A3P8U932	A0A3P8U932	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	161767	Ensembl		P
+UniProtKB	A0A3P8UXS1	A0A3P8UXS1	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	244447	Ensembl		P
+UniProtKB	A0A3P8VE55	A0A3P8VE55	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	244447	Ensembl		P
+UniProtKB	A0A3P8VF41	A0A3P8VF41	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	244447	Ensembl		P
+UniProtKB	A0A3P8X1G5	A0A3P8X1G5	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	244447	Ensembl		P
+UniProtKB	A0A3P8XP84	A0A3P8XP84	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	8010	Ensembl		P
+UniProtKB	A0A3P8XRY4	A0A3P8XRY4	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	8010	Ensembl		P
+UniProtKB	A0A3P8YC03	A0A3P8YC03	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	8010	Ensembl		P
+UniProtKB	A0A3P8YN62	A0A3P8YN62	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	8010	Ensembl		P
+UniProtKB	A0A3P9AWG3	A0A3P9AWG3	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	106582	Ensembl		P
+UniProtKB	A0A3P9B9U6	A0A3P9B9U6	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1Q834|ensembl:ENSDARP00000080486	106582	Ensembl		P
+UniProtKB	A0A3P9BLV8	A0A3P9BLV8	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	106582	Ensembl		P
+UniProtKB	A0A3P9CFL1	A0A3P9CFL1	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	106582	Ensembl		P
+UniProtKB	A0A3P9CUH8	A0A3P9CUH8	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	106582	Ensembl		P
+UniProtKB	A0A3P9CUK1	A0A3P9CUK1	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	106582	Ensembl		P
+UniProtKB	A0A3P9DJK4	A0A3P9DJK4	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	106582	Ensembl		P
+UniProtKB	A0A3P9H636	A0A3P9H636	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	8090	Ensembl		P
+UniProtKB	A0A3P9HUI3	A0A3P9HUI3	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	8090	Ensembl		P
+UniProtKB	A0A3P9HV61	A0A3P9HV61	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	8090	Ensembl		P
+UniProtKB	A0A3P9I1U1	A0A3P9I1U1	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	8090	Ensembl		P
+UniProtKB	A0A3P9IE18	A0A3P9IE18	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	8090	Ensembl		P
+UniProtKB	A0A3P9IYS1	A0A3P9IYS1	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	8090	Ensembl		P
+UniProtKB	A0A3P9JQU2	A0A3P9JQU2	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	8090	Ensembl		P
+UniProtKB	A0A3P9LCT5	A0A3P9LCT5	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	8090	Ensembl		P
+UniProtKB	A0A3P9LHI7	A0A3P9LHI7	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	8090	Ensembl		P
+UniProtKB	A0A3P9M0G6	A0A3P9M0G6	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	8090	Ensembl		P
+UniProtKB	A0A3P9M1U3	A0A3P9M1U3	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	8090	Ensembl		P
+UniProtKB	A0A3P9M1X4	A0A3P9M1X4	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	8090	Ensembl		P
+UniProtKB	A0A3P9MBE9	A0A3P9MBE9	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	8090	Ensembl		P
+UniProtKB	A0A3P9MR84	A0A3P9MR84	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	8090	Ensembl		P
+UniProtKB	A0A3P9MVV6	A0A3P9MVV6	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	8081	Ensembl		P
+UniProtKB	A0A3P9MYN6	A0A3P9MYN6	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	8081	Ensembl		P
+UniProtKB	A0A3P9P656	A0A3P9P656	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	8081	Ensembl		P
+UniProtKB	A0A3P9P6H0	A0A3P9P6H0	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	8081	Ensembl		P
+UniProtKB	A0A3P9PL67	A0A3P9PL67	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	8081	Ensembl		P
+UniProtKB	A0A3Q0QNE6	A0A3Q0QNE6	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	61819	Ensembl		P
+UniProtKB	A0A3Q0R7M6	A0A3Q0R7M6	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	61819	Ensembl		P
+UniProtKB	A0A3Q0RL45	A0A3Q0RL45	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	61819	Ensembl		P
+UniProtKB	A0A3Q0RNP9	A0A3Q0RNP9	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1Q834|ensembl:ENSDARP00000080486	61819	Ensembl		P
+UniProtKB	A0A3Q0RQC1	A0A3Q0RQC1	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	61819	Ensembl		P
+UniProtKB	A0A3Q0RRS5	A0A3Q0RRS5	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	61819	Ensembl		P
+UniProtKB	A0A3Q0S737	A0A3Q0S737	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	61819	Ensembl		P
+UniProtKB	A0A3Q0SUR2	A0A3Q0SUR2	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	61819	Ensembl		P
+UniProtKB	A0A3Q1ANU4	A0A3Q1ANU4	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	80972	Ensembl		P
+UniProtKB	A0A3Q1ARI1	A0A3Q1ARI1	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	80972	Ensembl		P
+UniProtKB	A0A3Q1C8Z1	A0A3Q1C8Z1	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1Q834|ensembl:ENSDARP00000080486	80972	Ensembl		P
+UniProtKB	A0A3Q1CM06	A0A3Q1CM06	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	80972	Ensembl		P
+UniProtKB	A0A3Q1CU60	A0A3Q1CU60	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	80972	Ensembl		P
+UniProtKB	A0A3Q1DBQ2	A0A3Q1DBQ2	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	80972	Ensembl		P
+UniProtKB	A0A3Q1ERK0	A0A3Q1ERK0	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	80966	Ensembl		P
+UniProtKB	A0A3Q1FJW7	A0A3Q1FJW7	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	80966	Ensembl		P
+UniProtKB	A0A3Q1FYU4	A0A3Q1FYU4	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	80966	Ensembl		P
+UniProtKB	A0A3Q1GH69	A0A3Q1GH69	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	80966	Ensembl		P
+UniProtKB	A0A3Q1GX17	A0A3Q1GX17	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	80966	Ensembl		P
+UniProtKB	A0A3Q1H5R3	A0A3Q1H5R3	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	64144	Ensembl		P
+UniProtKB	A0A3Q1HGC3	A0A3Q1HGC3	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	64144	Ensembl		P
+UniProtKB	A0A3Q1I0R8	A0A3Q1I0R8	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	64144	Ensembl		P
+UniProtKB	A0A3Q1IJ11	A0A3Q1IJ11	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	64144	Ensembl		P
+UniProtKB	A0A3Q1IN82	A0A3Q1IN82	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	64144	Ensembl		P
+UniProtKB	A0A3Q1IQG9	A0A3Q1IQG9	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	64144	Ensembl		P
+UniProtKB	A0A3Q1JFA3	A0A3Q1JFA3	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	64144	Ensembl		P
+UniProtKB	A0A3Q1MAU6	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	9913	Ensembl		P
+UniProtKB	A0A3Q1MTU2	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	9913	Ensembl		P
+UniProtKB	A0A3Q2C9P5	A0A3Q2C9P5	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	28743	Ensembl		P
+UniProtKB	A0A3Q2CX15	A0A3Q2CX15	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	28743	Ensembl		P
+UniProtKB	A0A3Q2D801	A0A3Q2D801	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	28743	Ensembl		P
+UniProtKB	A0A3Q2DE86	A0A3Q2DE86	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	28743	Ensembl		P
+UniProtKB	A0A3Q2DN58	A0A3Q2DN58	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	28743	Ensembl		P
+UniProtKB	A0A3Q2E188	A0A3Q2E188	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	28743	Ensembl		P
+UniProtKB	A0A3Q2EA04	A0A3Q2EA04	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	28743	Ensembl		P
+UniProtKB	A0A3Q2I452	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	9796	Ensembl		P
+UniProtKB	A0A3Q2IDD0	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	9796	Ensembl		P
+UniProtKB	A0A3Q2P6M3	A0A3Q2P6M3	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	8078	Ensembl		P
+UniProtKB	A0A3Q2PL95	A0A3Q2PL95	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	8078	Ensembl		P
+UniProtKB	A0A3Q2Q4F4	A0A3Q2Q4F4	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	8078	Ensembl		P
+UniProtKB	A0A3Q2QTP5	A0A3Q2QTP5	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	8078	Ensembl		P
+UniProtKB	A0A3Q2U673	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	9031	Ensembl		P
+UniProtKB	A0A3Q2UF12	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	9031	Ensembl		P
+UniProtKB	A0A3Q2VHN8	A0A3Q2VHN8	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	8153	Ensembl		P
+UniProtKB	A0A3Q2VVG9	A0A3Q2VVG9	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	8153	Ensembl		P
+UniProtKB	A0A3Q2W1N2	A0A3Q2W1N2	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	8153	Ensembl		P
+UniProtKB	A0A3Q2WHP1	A0A3Q2WHP1	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	8153	Ensembl		P
+UniProtKB	A0A3Q2XFG1	A0A3Q2XFG1	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	109280	Ensembl		P
+UniProtKB	A0A3Q2XGR0	A0A3Q2XGR0	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	109280	Ensembl		P
+UniProtKB	A0A3Q2XXK4	A0A3Q2XXK4	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	109280	Ensembl		P
+UniProtKB	A0A3Q2XYH5	A0A3Q2XYH5	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1Q834|ensembl:ENSDARP00000080486	109280	Ensembl		P
+UniProtKB	A0A3Q2YF68	A0A3Q2YF68	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	109280	Ensembl		P
+UniProtKB	A0A3Q2YR12	A0A3Q2YR12	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	109280	Ensembl		P
+UniProtKB	A0A3Q2ZIJ9	A0A3Q2ZIJ9	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	37003	Ensembl		P
+UniProtKB	A0A3Q2ZL62	A0A3Q2ZL62	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	37003	Ensembl		P
+UniProtKB	A0A3Q3AQ34	A0A3Q3AQ34	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	37003	Ensembl		P
+UniProtKB	A0A3Q3AQK2	A0A3Q3AQK2	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	37003	Ensembl		P
+UniProtKB	A0A3Q3BML2	A0A3Q3BML2	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	8153	Ensembl		P
+UniProtKB	A0A3Q3BTW6	A0A3Q3BTW6	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	8153	Ensembl		P
+UniProtKB	A0A3Q3E067	A0A3Q3E067	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	109280	Ensembl		P
+UniProtKB	A0A3Q3EQ72	A0A3Q3EQ72	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	37003	Ensembl		P
+UniProtKB	A0A3Q3ERU2	A0A3Q3ERU2	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	56723	Ensembl		P
+UniProtKB	A0A3Q3ERW4	A0A3Q3ERW4	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	56723	Ensembl		P
+UniProtKB	A0A3Q3ESD6	A0A3Q3ESD6	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	56723	Ensembl		P
+UniProtKB	A0A3Q3EZ22	A0A3Q3EZ22	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	56723	Ensembl		P
+UniProtKB	A0A3Q3F052	A0A3Q3F052	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	37003	Ensembl		P
+UniProtKB	A0A3Q3FI65	A0A3Q3FI65	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	56723	Ensembl		P
+UniProtKB	A0A3Q3FRQ1	A0A3Q3FRQ1	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	56723	Ensembl		P
+UniProtKB	A0A3Q3FZN0	A0A3Q3FZN0	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	56723	Ensembl		P
+UniProtKB	A0A3Q3ICC3	A0A3Q3ICC3	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	43700	Ensembl		P
+UniProtKB	A0A3Q3INF6	A0A3Q3INF6	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	43700	Ensembl		P
+UniProtKB	A0A3Q3J5L9	A0A3Q3J5L9	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	43700	Ensembl		P
+UniProtKB	A0A3Q3JDX8	A0A3Q3JDX8	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1Q834|ensembl:ENSDARP00000080486	43700	Ensembl		P
+UniProtKB	A0A3Q3JH18	A0A3Q3JH18	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	43700	Ensembl		P
+UniProtKB	A0A3Q3KAM9	A0A3Q3KAM9	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	43700	Ensembl		P
+UniProtKB	A0A3Q3LJK5	A0A3Q3LJK5	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	205130	Ensembl		P
+UniProtKB	A0A3Q3MA98	A0A3Q3MA98	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	205130	Ensembl		P
+UniProtKB	A0A3Q3MI49	A0A3Q3MI49	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	205130	Ensembl		P
+UniProtKB	A0A3Q3N9E4	A0A3Q3N9E4	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	205130	Ensembl		P
+UniProtKB	A0A3Q3NDF1	A0A3Q3NDF1	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	205130	Ensembl		P
+UniProtKB	A0A3Q3QW25	A0A3Q3QW25	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	43700	Ensembl		P
+UniProtKB	A0A3Q3RMM0	A0A3Q3RMM0	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	205130	Ensembl		P
+UniProtKB	A0A3Q3RRP8	A0A3Q3RRP8	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	205130	Ensembl		P
+UniProtKB	A0A3Q3VWA7	A0A3Q3VWA7	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	94237	Ensembl		P
+UniProtKB	A0A3Q3VWT3	A0A3Q3VWT3	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	94237	Ensembl		P
+UniProtKB	A0A3Q3W324	A0A3Q3W324	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	94237	Ensembl		P
+UniProtKB	A0A3Q3WEG4	A0A3Q3WEG4	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	94237	Ensembl		P
+UniProtKB	A0A3Q3X879	A0A3Q3X879	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	94237	Ensembl		P
+UniProtKB	A0A3Q3XDU6	A0A3Q3XDU6	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	94237	Ensembl		P
+UniProtKB	A0A3Q4G4R1	A0A3Q4G4R1	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1Q834|ensembl:ENSDARP00000080486	32507	Ensembl		P
+UniProtKB	A0A3Q4GQY1	A0A3Q4GQY1	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	32507	Ensembl		P
+UniProtKB	A0A3Q4H078	A0A3Q4H078	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	32507	Ensembl		P
+UniProtKB	A0A3Q4HD66	A0A3Q4HD66	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	32507	Ensembl		P
+UniProtKB	A0A3Q4HEN2	A0A3Q4HEN2	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	32507	Ensembl		P
+UniProtKB	A0A3Q4HKE2	A0A3Q4HKE2	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	32507	Ensembl		P
+UniProtKB	A0A3Q4HYA0	A0A3Q4HYA0	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	32507	Ensembl		P
+UniProtKB	A0A3Q4I719	A0A3Q4I719	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	32507	Ensembl		P
+UniProtKB	A0A3Q7RQV2	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	9627	Ensembl		P
+UniProtKB	A0A3Q7SSU1	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	9627	Ensembl		P
+UniProtKB	A0A3S2TZB0	OJAV_G00200430	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	123683	Ensembl		P
+UniProtKB	A0A437DMJ5	OJAV_G00005570	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	123683	Ensembl		P
+UniProtKB	A0A452EH00	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	9925	Ensembl		P
+UniProtKB	A0A452EV73	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	9925	Ensembl		P
+UniProtKB	A0A452FFK0	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	9925	Ensembl		P
+UniProtKB	A0A452FP76	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	9925	Ensembl		P
+UniProtKB	A0A452G8L0	AQP1	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9925	Ensembl		P
+UniProtKB	A0A452G8L0	AQP1	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9925	Ensembl		P
+UniProtKB	A0A452IQE4	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	38772	Ensembl		P
+UniProtKB	A0A452IYX2	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	38772	Ensembl		P
+UniProtKB	A0A452TT17	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	29073	Ensembl		P
+UniProtKB	A0A452VPF8	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	29073	Ensembl		P
+UniProtKB	A0A480SN06	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	9823	Ensembl		P
+UniProtKB	A0A493T6I2	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	8840	Ensembl		P
+UniProtKB	A0A493TQN7	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	8840	Ensembl		P
+UniProtKB	A0A4U1EXJ1	EI555_008878	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	40151	Ensembl		P
+UniProtKB	A0A4W2BNT9	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	30522	Ensembl		P
+UniProtKB	A0A4W2CZB1	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	30522	Ensembl		P
+UniProtKB	A0A4W2D8S8	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	30522	Ensembl		P
+UniProtKB	A0A4W2DM69	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	30522	Ensembl		P
+UniProtKB	A0A4W2ETQ2	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	30522	Ensembl		P
+UniProtKB	A0A4W2F637	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	30522	Ensembl		P
+UniProtKB	A0A4W2FKU2	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	30522	Ensembl		P
+UniProtKB	A0A4W2GKP4	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	30522	Ensembl		P
+UniProtKB	A0A4W2HS74	AQP1	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	30522	Ensembl		P
+UniProtKB	A0A4W2HS74	AQP1	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	30522	Ensembl		P
+UniProtKB	A0A4W4DS74	tbx2	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	8005	Ensembl		P
+UniProtKB	A0A4W4E6V3	ppargc1a	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	8005	Ensembl		P
+UniProtKB	A0A4W4FGV9	mecom	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1Q834|ensembl:ENSDARP00000080486	8005	Ensembl		P
+UniProtKB	A0A4W4H6Q6	pkd2	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	8005	Ensembl		P
+UniProtKB	A0A4W4HCZ2	osr1	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	8005	Ensembl		P
+UniProtKB	A0A4W4HFC0	ift74	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	8005	Ensembl		P
+UniProtKB	A0A4W4HHT4	LOC113585953	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	8005	Ensembl		P
+UniProtKB	A0A4W4HMN0	ift88	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	8005	Ensembl		P
+UniProtKB	A0A4W5R8N1	A0A4W5R8N1	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	62062	Ensembl		P
+UniProtKB	A0A4W6BVT3	A0A4W6BVT3	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	8187	Ensembl		P
+UniProtKB	A0A4W6BWJ5	A0A4W6BWJ5	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	8187	Ensembl		P
+UniProtKB	A0A4W6C5X4	tbx2	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	8187	Ensembl		P
+UniProtKB	A0A4W6DPI4	A0A4W6DPI4	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	8187	Ensembl		P
+UniProtKB	A0A4W6EGJ6	ppargc1a	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	8187	Ensembl		P
+UniProtKB	A0A4W6F3U3	osr1	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	8187	Ensembl		P
+UniProtKB	A0A4W6F755	LOC108894080	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	8187	Ensembl		P
+UniProtKB	A0A4X1SR23	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	9823	Ensembl		P
+UniProtKB	A0A4X1UEN8	A0A4X1UEN8	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	9823	Ensembl		P
+UniProtKB	A0A4X2KWQ0	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	29139	Ensembl		P
+UniProtKB	A0A4X2LI43	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	29139	Ensembl		P
+UniProtKB	A0A4X2LJX4	A0A4X2LJX4	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	29139	Ensembl		P
+UniProtKB	A0A4X2LJX4	A0A4X2LJX4	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	29139	Ensembl		P
+UniProtKB	A0A4X2LKP4	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	29139	Ensembl		P
+UniProtKB	A0A5F4BQ74	AQP1	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9615	Ensembl		P
+UniProtKB	A0A5F4BQ74	AQP1	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9615	Ensembl		P
+UniProtKB	A0A5F4C3Z4	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	9615	Ensembl		P
+UniProtKB	A0A5F4W9U0	A0A5F4W9U0	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	9483	Ensembl		P
+UniProtKB	A0A5F5XVX4	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	9685	Ensembl		P
+UniProtKB	A0A5F5XZN3	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	9685	Ensembl		P
+UniProtKB	A0A5F8A4C6	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	9544	Ensembl		P
+UniProtKB	A0A5G2QAN2	AQP1	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9823	Ensembl		P
+UniProtKB	A0A5G2QAN2	AQP1	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9823	Ensembl		P
+UniProtKB	A0A5G2QEX1	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	9823	Ensembl		P
+UniProtKB	A5HML2	mecom	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000315	IMP	PMID:24309209	ZFIN:ZDB-MRPHLNO-150410-1|ZFIN:ZDB-MRPHLNO-150424-1	7955	ZFIN		P
+UniProtKB	A5XCD7	mecom	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000315	IMP	PMID:24309209	ZFIN:ZDB-MRPHLNO-150410-1|ZFIN:ZDB-MRPHLNO-150424-1	7955	ZFIN		P
+UniProtKB	A7MCH8	tbx2a	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000315	IMP	PMID:27840199	ZFIN:ZDB-MRPHLNO-140123-2	7955	ZFIN		P
+UniProtKB	B0R122	tbx2a	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000315	IMP	PMID:27840199	ZFIN:ZDB-MRPHLNO-140123-2	7955	ZFIN		P
+UniProtKB	B0UYB0	ift88	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000315	IMP	PMID:19127979	ZFIN:ZDB-MRPHLNO-050506-2	7955	ZFIN		P
+UniProtKB	B7ZSG3	wt1-a	involved_in	GO:0039004	specification of pronephric proximal tubule identity	ECO:0000315	IMP	PMID:16818449		8355	UniProt		P
+UniProtKB	D2HBL6	AQP1	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9646	Ensembl		P
+UniProtKB	D2HBL6	AQP1	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9646	Ensembl		P
+UniProtKB	D3ZIH3	Heyl	involved_in	GO:0072014	proximal tubule development	ECO:0000266	ISO	GO_REF:0000096	RGD:1312806	10116	RGD		P
+UniProtKB	D3ZIH3	Heyl	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	10116	Ensembl		P
+UniProtKB	D6QWW9	ppargc1a	involved_in	GO:0072020	proximal straight tubule development	ECO:0000315	IMP	PMID:30475208	ZFIN:ZDB-GENO-190905-10	7955	ZFIN		P
+UniProtKB	D6QWW9	ppargc1a	involved_in	GO:0072020	proximal straight tubule development	ECO:0000315	IMP	PMID:30475208	ZFIN:ZDB-MRPHLNO-100423-10	7955	ZFIN		P
+UniProtKB	D6QWW9	ppargc1a	involved_in	GO:0072020	proximal straight tubule development	ECO:0000316	IGI	PMID:30475208	ZFIN:ZDB-GENE-020829-1	7955	ZFIN		P
+UniProtKB	D7F2U9	ppargc1a	involved_in	GO:0072020	proximal straight tubule development	ECO:0000315	IMP	PMID:30475208	ZFIN:ZDB-GENO-190905-10	7955	ZFIN		P
+UniProtKB	D7F2U9	ppargc1a	involved_in	GO:0072020	proximal straight tubule development	ECO:0000315	IMP	PMID:30475208	ZFIN:ZDB-MRPHLNO-100423-10	7955	ZFIN		P
+UniProtKB	D7F2U9	ppargc1a	involved_in	GO:0072020	proximal straight tubule development	ECO:0000316	IGI	PMID:30475208	ZFIN:ZDB-GENE-020829-1	7955	ZFIN		P
+UniProtKB	E7EZE3	ift74	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000315	IMP	PMID:27486776	ZFIN:ZDB-MRPHLNO-161012-10	7955	ZFIN		P
+UniProtKB	E7EZE3	ift74	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000315	IMP	PMID:27486776	ZFIN:ZDB-MRPHLNO-161012-11	7955	ZFIN		P
+UniProtKB	F1MAD3	Pkd1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000266	ISO	GO_REF:0000096	RGD:736706	10116	RGD		P
+UniProtKB	F1MAD3	Pkd1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	10116	Ensembl		P
+UniProtKB	F1N1C3	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	9913	Ensembl		P
+UniProtKB	F1N838	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	9031	Ensembl		P
+UniProtKB	F1P236	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	9031	Ensembl		P
+UniProtKB	F1PNN6	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	9615	Ensembl		P
+UniProtKB	F1PS94	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	9615	Ensembl		P
+UniProtKB	F1Q834	mecom	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000315	IMP	PMID:24309209	ZFIN:ZDB-MRPHLNO-150410-1|ZFIN:ZDB-MRPHLNO-150424-1	7955	ZFIN		P
+UniProtKB	F1QVN7	ift88	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000315	IMP	PMID:19127979	ZFIN:ZDB-MRPHLNO-050506-2	7955	ZFIN		P
+UniProtKB	F1QW32	ift88	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000315	IMP	PMID:19127979	ZFIN:ZDB-MRPHLNO-050506-2	7955	ZFIN		P
+UniProtKB	F1QXB5	ppargc1a	involved_in	GO:0072020	proximal straight tubule development	ECO:0000315	IMP	PMID:30475208	ZFIN:ZDB-GENO-190905-10	7955	ZFIN		P
+UniProtKB	F1QXB5	ppargc1a	involved_in	GO:0072020	proximal straight tubule development	ECO:0000315	IMP	PMID:30475208	ZFIN:ZDB-MRPHLNO-100423-10	7955	ZFIN		P
+UniProtKB	F1QXB5	ppargc1a	involved_in	GO:0072020	proximal straight tubule development	ECO:0000316	IGI	PMID:30475208	ZFIN:ZDB-GENE-020829-1	7955	ZFIN		P
+UniProtKB	F1SB08	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	9823	Ensembl		P
+UniProtKB	F1STZ0	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	9823	Ensembl		P
+UniProtKB	F6S3G9	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q8BHH1	9796	UniProt		P
+UniProtKB	F6S3G9	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	9796	Ensembl		P
+UniProtKB	F6UDU8	LOC100181294	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	7719	Ensembl		P
+UniProtKB	F6YKH5	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	9544	Ensembl		P
+UniProtKB	F6YV18	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	13616	Ensembl		P
+UniProtKB	F7AVD5	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	13616	Ensembl		P
+UniProtKB	F7C2K5	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	9796	Ensembl		P
+UniProtKB	F7HB47	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	9544	Ensembl		P
+UniProtKB	F7HI29	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	9544	Ensembl		P
+UniProtKB	G1KB45	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	28377	Ensembl		P
+UniProtKB	G1LYQ2	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	9646	Ensembl		P
+UniProtKB	G1MF60	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	9646	Ensembl		P
+UniProtKB	G1MHF8	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	9646	Ensembl		P
+UniProtKB	G1MSG4	AQP1	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9103	Ensembl		P
+UniProtKB	G1MSG4	AQP1	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9103	Ensembl		P
+UniProtKB	G1MZT1	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	9103	Ensembl		P
+UniProtKB	G1N2X4	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	9103	Ensembl		P
+UniProtKB	G1NHX8	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	9103	Ensembl		P
+UniProtKB	G1NQT0	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	9103	Ensembl		P
+UniProtKB	G1NZA1	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	59463	Ensembl		P
+UniProtKB	G1P221	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	59463	Ensembl		P
+UniProtKB	G1P3W8	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	59463	Ensembl		P
+UniProtKB	G1PED1	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	59463	Ensembl		P
+UniProtKB	G1PXM4	G1PXM4	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	59463	Ensembl		P
+UniProtKB	G1PXM4	G1PXM4	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	59463	Ensembl		P
+UniProtKB	G1Q190	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	59463	Ensembl		P
+UniProtKB	G1R0C4	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	61853	Ensembl		P
+UniProtKB	G1RMR9	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	61853	Ensembl		P
+UniProtKB	G1S435	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	61853	Ensembl		P
+UniProtKB	G1SDJ4	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	9986	Ensembl		P
+UniProtKB	G3HJL7	CgPICR_014823	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	10029	Ensembl		P
+UniProtKB	G3HJL7	CgPICR_014823	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	10029	Ensembl		P
+UniProtKB	G3N7I2	G3N7I2	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	69293	Ensembl		P
+UniProtKB	G3N915	G3N915	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	69293	Ensembl		P
+UniProtKB	G3PK23	G3PK23	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	69293	Ensembl		P
+UniProtKB	G3PZ65	G3PZ65	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	69293	Ensembl		P
+UniProtKB	G3Q7H8	G3Q7H8	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	69293	Ensembl		P
+UniProtKB	G3Q9Q1	G3Q9Q1	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	69293	Ensembl		P
+UniProtKB	G3QAB6	G3QAB6	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	69293	Ensembl		P
+UniProtKB	G3QVU1	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	9595	Ensembl		P
+UniProtKB	G3QYY3	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	9595	Ensembl		P
+UniProtKB	G3R8H6	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	9595	Ensembl		P
+UniProtKB	G3SMV2	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	9785	Ensembl		P
+UniProtKB	G3SRW1	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	9785	Ensembl		P
+UniProtKB	G3T544	G3T544	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9785	Ensembl		P
+UniProtKB	G3T544	G3T544	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9785	Ensembl		P
+UniProtKB	G3TF62	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	9785	Ensembl		P
+UniProtKB	G3U826	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	9785	Ensembl		P
+UniProtKB	G3V7W6	Dll1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	10116	Ensembl		P
+UniProtKB	G3V8G9	Notch2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	10116	Ensembl		P
+UniProtKB	G3WP27	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	9305	Ensembl		P
+UniProtKB	G3WU86	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	9305	Ensembl		P
+UniProtKB	G3X1E4	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	9305	Ensembl		P
+UniProtKB	G5AW73	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	10181	Ensembl		P
+UniProtKB	G5C3J5	AQP1	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	10181	Ensembl		P
+UniProtKB	G5C3J5	AQP1	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	10181	Ensembl		P
+UniProtKB	G5C4Y6	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	10181	Ensembl		P
+UniProtKB	G7NUC2	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	9541	Ensembl		P
+UniProtKB	H0V0D6	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	10141	Ensembl		P
+UniProtKB	H0V512	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	10141	Ensembl		P
+UniProtKB	H0VJ27	Aqp1	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	10141	Ensembl		P
+UniProtKB	H0VJ27	Aqp1	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	10141	Ensembl		P
+UniProtKB	H0VU21	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	10141	Ensembl		P
+UniProtKB	H0W2I1	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	10141	Ensembl		P
+UniProtKB	H0X014	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	30611	Ensembl		P
+UniProtKB	H0XCI2	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	30611	Ensembl		P
+UniProtKB	H0XFT2	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	30611	Ensembl		P
+UniProtKB	H0XZM0	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	30611	Ensembl		P
+UniProtKB	H0Y019	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	30611	Ensembl		P
+UniProtKB	H0ZHN3	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	59729	Ensembl		P
+UniProtKB	H0ZS25	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	59729	Ensembl		P
+UniProtKB	H2LGU6	ift74	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	8090	Ensembl		P
+UniProtKB	H2LJ44	ppargc1a	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	8090	Ensembl		P
+UniProtKB	H2M2B9	LOC101156111	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	8090	Ensembl		P
+UniProtKB	H2M4T5	osr1	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	8090	Ensembl		P
+UniProtKB	H2MIQ8	tbx2	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	8090	Ensembl		P
+UniProtKB	H2N7V9	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	9601	Ensembl		P
+UniProtKB	H2NER5	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	9601	Ensembl		P
+UniProtKB	H2NPT1	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	9601	Ensembl		P
+UniProtKB	H2PYQ8	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	9598	Ensembl		P
+UniProtKB	H2Q4G4	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	9598	Ensembl		P
+UniProtKB	H2SI74	osr1	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	31033	Ensembl		P
+UniProtKB	H2T7W6	tbx2	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	31033	Ensembl		P
+UniProtKB	H2TKA6	H2TKA6	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	31033	Ensembl		P
+UniProtKB	H2TX05	pkd2	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	31033	Ensembl		P
+UniProtKB	H2YAL3	H2YAL3	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	51511	Ensembl		P
+UniProtKB	H2ZWI9	IFT88	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	7897	Ensembl		P
+UniProtKB	H3A5K1	PKD2	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	7897	Ensembl		P
+UniProtKB	H3AAD3	OSR1	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	7897	Ensembl		P
+UniProtKB	H3B241	PPARGC1A	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	7897	Ensembl		P
+UniProtKB	H3CFW0	H3CFW0	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	99883	Ensembl		P
+UniProtKB	H3CZK0	H3CZK0	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	99883	Ensembl		P
+UniProtKB	H3D0E5	H3D0E5	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	99883	Ensembl		P
+UniProtKB	H3DA71	H3DA71	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	99883	Ensembl		P
+UniProtKB	H3DE04	H3DE04	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	99883	Ensembl		P
+UniProtKB	H9GSN1	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	28377	Ensembl		P
+UniProtKB	H9YZ83	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	9544	Ensembl		P
+UniProtKB	I3J0L4	I3J0L4	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	8128	Ensembl		P
+UniProtKB	I3JZI1	LOC100701233	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	8128	Ensembl		P
+UniProtKB	I3KLL1	pkd2	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	8128	Ensembl		P
+UniProtKB	I3LNT3	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	9823	Ensembl		P
+UniProtKB	I3M4N5	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	43179	Ensembl		P
+UniProtKB	I3MFG3	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	43179	Ensembl		P
+UniProtKB	I3MKB6	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	43179	Ensembl		P
+UniProtKB	I3MPV2	Aqp1	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	43179	Ensembl		P
+UniProtKB	I3MPV2	Aqp1	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	43179	Ensembl		P
+UniProtKB	I3N1H9	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	43179	Ensembl		P
+UniProtKB	K7FAJ5	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	13735	Ensembl		P
+UniProtKB	K7FII1	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	13735	Ensembl		P
+UniProtKB	K7FSA9	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	13735	Ensembl		P
+UniProtKB	K7G7M1	K7G7M1	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	13735	Ensembl		P
+UniProtKB	K7G7M1	K7G7M1	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	13735	Ensembl		P
+UniProtKB	M3W7R2	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	9685	Ensembl		P
+UniProtKB	M3WBU4	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	9685	Ensembl		P
+UniProtKB	M3XQN8	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	9669	Ensembl		P
+UniProtKB	M3Y1C4	M3Y1C4	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9669	Ensembl		P
+UniProtKB	M3Y1C4	M3Y1C4	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9669	Ensembl		P
+UniProtKB	M3YSJ5	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	9669	Ensembl		P
+UniProtKB	M3YVF5	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	9669	Ensembl		P
+UniProtKB	M3YWY2	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	9669	Ensembl		P
+UniProtKB	M3ZSV8	M3ZSV8	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	8083	Ensembl		P
+UniProtKB	M3ZU30	M3ZU30	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0R122|ensembl:ENSDARP00000027905	8083	Ensembl		P
+UniProtKB	M3ZZY7	M3ZZY7	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	8083	Ensembl		P
+UniProtKB	M4A6D1	M4A6D1	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	8083	Ensembl		P
+UniProtKB	O00548	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	9606	Ensembl		P
+UniProtKB	O08852	Pkd1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	10090	Ensembl		P
+UniProtKB	O35516	Notch2	involved_in	GO:0072014	proximal tubule development	ECO:0000270	IEP	PMID:15821257		10090	UniProt		P
+UniProtKB	P17764	Acat1	involved_in	GO:0072229	metanephric proximal convoluted tubule development	ECO:0000270	IEP	PMID:7733320		10116	RGD		P
+UniProtKB	P24752	ACAT1	involved_in	GO:0072229	metanephric proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P17764|ensembl:ENSRNOP00000010573	9606	Ensembl		P
+UniProtKB	P29975	Aqp1	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000266	ISO	GO_REF:0000096	RGD:10181	10116	RGD		P
+UniProtKB	P29975	Aqp1	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000266	ISO	GO_REF:0000096	RGD:10181	10116	RGD		P
+UniProtKB	P29975	Aqp1	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	10116	Ensembl		P
+UniProtKB	P29975	Aqp1	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	10116	Ensembl		P
+UniProtKB	P47865	AQP1	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9913	Ensembl		P
+UniProtKB	P47865	AQP1	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9913	Ensembl		P
+UniProtKB	P97677	Dll1	involved_in	GO:0072014	proximal tubule development	ECO:0000266	ISO	GO_REF:0000096	RGD:733843	10116	RGD		P
+UniProtKB	P98161	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000270	IEP	PMID:11891195		9606	UniProt		P
+UniProtKB	Q02013	Aqp1	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000270	IEP	PMID:18618131		10090	UniProt		P
+UniProtKB	Q02013	Aqp1	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000270	IEP	PMID:18618131		10090	UniProt		P
+UniProtKB	Q04721	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	9606	Ensembl		P
+UniProtKB	Q1L669	ppargc1a	involved_in	GO:0072020	proximal straight tubule development	ECO:0000315	IMP	PMID:30475208	ZFIN:ZDB-GENO-190905-10	7955	ZFIN		P
+UniProtKB	Q1L669	ppargc1a	involved_in	GO:0072020	proximal straight tubule development	ECO:0000315	IMP	PMID:30475208	ZFIN:ZDB-MRPHLNO-100423-10	7955	ZFIN		P
+UniProtKB	Q1L669	ppargc1a	involved_in	GO:0072020	proximal straight tubule development	ECO:0000316	IGI	PMID:30475208	ZFIN:ZDB-GENE-020829-1	7955	ZFIN		P
+UniProtKB	Q2MCJ7	AQP1	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9031	Ensembl		P
+UniProtKB	Q2MCJ7	AQP1	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9031	Ensembl		P
+UniProtKB	Q2NL18	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	9913	Ensembl		P
+UniProtKB	Q2VF28	ift88	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000315	IMP	PMID:19127979	ZFIN:ZDB-MRPHLNO-050506-2	7955	ZFIN		P
+UniProtKB	Q52MY8	ppargc1a	involved_in	GO:0072020	proximal straight tubule development	ECO:0000315	IMP	PMID:30475208	ZFIN:ZDB-GENO-190905-10	7955	ZFIN		P
+UniProtKB	Q52MY8	ppargc1a	involved_in	GO:0072020	proximal straight tubule development	ECO:0000315	IMP	PMID:30475208	ZFIN:ZDB-MRPHLNO-100423-10	7955	ZFIN		P
+UniProtKB	Q52MY8	ppargc1a	involved_in	GO:0072020	proximal straight tubule development	ECO:0000316	IGI	PMID:30475208	ZFIN:ZDB-GENE-020829-1	7955	ZFIN		P
+UniProtKB	Q56HA8	ift88	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000315	IMP	PMID:19127979	ZFIN:ZDB-MRPHLNO-050506-2	7955	ZFIN		P
+UniProtKB	Q5XJQ7	osr1	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000315	IMP	PMID:24722440	ZFIN:ZDB-MRPHLNO-090121-1	7955	ZFIN		P
+UniProtKB	Q5XJQ7	osr1	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000315	IMP	PMID:18787069		7955	UniProt		P
+UniProtKB	Q61483	Dll1	involved_in	GO:0072014	proximal tubule development	ECO:0000270	IEP	PMID:15821257		10090	UniProt		P
+UniProtKB	Q66KK8	hey1	involved_in	GO:0072082	specification of proximal tubule identity	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q9I8A3	8364	UniProt		P
+UniProtKB	Q6DHU7	ift74	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000315	IMP	PMID:27486776	ZFIN:ZDB-MRPHLNO-161012-10	7955	ZFIN		P
+UniProtKB	Q6DHU7	ift74	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000315	IMP	PMID:27486776	ZFIN:ZDB-MRPHLNO-161012-11	7955	ZFIN		P
+UniProtKB	Q6IVV8	pkd2	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000315	IMP	PMID:19127979	ZFIN:ZDB-MRPHLNO-070129-4	7955	ZFIN		P
+UniProtKB	Q6NV02	tbx2a	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000315	IMP	PMID:27840199	ZFIN:ZDB-MRPHLNO-140123-2	7955	ZFIN		P
+UniProtKB	Q6RUQ9	ift88	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000315	IMP	PMID:19127979	ZFIN:ZDB-MRPHLNO-050506-2	7955	ZFIN		P
+UniProtKB	Q7ZTU9	tbx2b	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000315	IMP	PMID:27840199	ZFIN:ZDB-MRPHLNO-051012-1	7955	ZFIN		P
+UniProtKB	Q8BHH1	Aqp11	involved_in	GO:0072014	proximal tubule development	ECO:0000315	IMP	PMID:27582095		10090	UniProt		P
+UniProtKB	Q8BHH1	Aqp11	acts_upstream_of_or_within	GO:0072014	proximal tubule development	ECO:0000315	IMP	PMID:18701606	MGI:MGI:1889609	10090	MGI		P
+UniProtKB	Q8CHM1	Aqp11	involved_in	GO:0072014	proximal tubule development	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q8BHH1	10116	UniProt		P
+UniProtKB	Q8CHM1	Aqp11	involved_in	GO:0072014	proximal tubule development	ECO:0000266	ISO	GO_REF:0000096	RGD:736751	10116	RGD		P
+UniProtKB	Q8CHM1	Aqp11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	10116	Ensembl		P
+UniProtKB	Q8NBQ7	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000250	ISS	GO_REF:0000024	UniProtKB:Q8BHH1	9606	UniProt		P
+UniProtKB	Q8NBQ7	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	9606	Ensembl		P
+UniProtKB	Q8QZT1	Acat1	involved_in	GO:0072229	metanephric proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P17764|ensembl:ENSRNOP00000010573	10090	Ensembl		P
+UniProtKB	Q98SJ5	sim1a	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000315	IMP	PMID:25542995	ZFIN:ZDB-MRPHLNO-060921-2	7955	ZFIN		P
+UniProtKB	Q98SJ5	sim1a	involved_in	GO:0072020	proximal straight tubule development	ECO:0000315	IMP	PMID:30475208	ZFIN:ZDB-GENO-190905-10	7955	ZFIN		P
+UniProtKB	Q98SJ5	sim1a	involved_in	GO:0072020	proximal straight tubule development	ECO:0000315	IMP	PMID:30475208	ZFIN:ZDB-MRPHLNO-100423-10	7955	ZFIN		P
+UniProtKB	Q98SJ5	sim1a	involved_in	GO:0072020	proximal straight tubule development	ECO:0000316	IGI	PMID:30475208	ZFIN:ZDB-GENE-020829-1	7955	ZFIN		P
+UniProtKB	Q9DBX7	Heyl	involved_in	GO:0072014	proximal tubule development	ECO:0000270	IEP	PMID:15821257		10090	UniProt		P
+UniProtKB	Q9ERR2	Commd5	involved_in	GO:0072158	proximal tubule morphogenesis	ECO:0000314	IDA	PMID:24515317		10116	UniProt		P
+UniProtKB	Q9I8A3	hey1	involved_in	GO:0072082	specification of proximal tubule identity	ECO:0000315	IMP	PMID:16818449		8355	UniProt		P
+UniProtKB	Q9NQ87	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	9606	Ensembl		P
+UniProtKB	Q9QW30	Notch2	involved_in	GO:0072014	proximal tubule development	ECO:0000266	ISO	GO_REF:0000096	RGD:736047	10116	RGD		P
+UniProtKB	S4RKI6	S4RKI6	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	7757	Ensembl		P
+UniProtKB	U3IW26	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	8840	Ensembl		P
+UniProtKB	U3IWE3	U3IWE3	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	8840	Ensembl		P
+UniProtKB	U3IWE3	U3IWE3	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	8840	Ensembl		P
+UniProtKB	U3JCQ3	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	59894	Ensembl		P
+UniProtKB	U3JKM5	DLL1	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q61483|ensembl:ENSMUSP00000014917	59894	Ensembl		P
+UniProtKB	U3JLR8	PKD1	involved_in	GO:0072237	metanephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:P98161|ensembl:ENSP00000262304	59894	Ensembl		P
+UniProtKB	U3JM68	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	59894	Ensembl		P
+UniProtKB	U3JYS5	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	59894	Ensembl		P
+UniProtKB	U6CQX8	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	452646	Ensembl		P
+UniProtKB	U6CUV4	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	452646	Ensembl		P
+UniProtKB	W5KI70	W5KI70	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	7994	Ensembl		P
+UniProtKB	W5L217	W5L217	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1Q834|ensembl:ENSDARP00000080486	7994	Ensembl		P
+UniProtKB	W5LJX0	W5LJX0	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	7994	Ensembl		P
+UniProtKB	W5LPP8	W5LPP8	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q5XJQ7|ensembl:ENSDARP00000023564	7994	Ensembl		P
+UniProtKB	W5M5Q7	W5M5Q7	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	7918	Ensembl		P
+UniProtKB	W5MY78	W5MY78	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:B0UYB0|ensembl:ENSDARP00000034047	7918	Ensembl		P
+UniProtKB	W5N3J8	W5N3J8	involved_in	GO:0072020	proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:F1QXB5|ensembl:ENSDARP00000088481	7918	Ensembl		P
+UniProtKB	W5N7H7	W5N7H7	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q6IVV8|ensembl:ENSDARP00000027024	7918	Ensembl		P
+UniProtKB	W5PB79	AQP11	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q8BHH1|ensembl:ENSMUSP00000146215	9940	Ensembl		P
+UniProtKB	W5PD28	W5PD28	involved_in	GO:0072232	metanephric proximal convoluted tubule segment 2 development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9940	Ensembl		P
+UniProtKB	W5PD28	W5PD28	involved_in	GO:0072230	metanephric proximal straight tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q02013|ensembl:ENSMUSP00000004774	9940	Ensembl		P
+UniProtKB	W5QFR9	HEYL	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q9DBX7|ensembl:ENSMUSP00000040576	9940	Ensembl		P
+UniProtKB	W5QGV9	NOTCH2	involved_in	GO:0072014	proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:O35516|ensembl:ENSMUSP00000078741	9940	Ensembl		P
+UniProtKB	W5U5S8	IFT74	involved_in	GO:0035776	pronephric proximal tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:E7EZE3|ensembl:ENSDARP00000027867	7998	Ensembl		P
+UniProtKB	W5UFJ3	tbx2b	involved_in	GO:0072019	proximal convoluted tubule development	ECO:0000265	IEA	GO_REF:0000107	UniProtKB:Q7ZTU9|ensembl:ENSDARP00000107769	7998	Ensembl		P

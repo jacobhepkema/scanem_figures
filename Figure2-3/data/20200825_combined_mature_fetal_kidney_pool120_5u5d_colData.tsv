@@ -1,0 +1,530 @@
+cell_type1	dataset
+Fetal B cell_pool1	Fetal B cell	Fetal
+Fetal B cell_pool2	Fetal B cell	Fetal
+Fetal Cap mesenchyme_pool1	Fetal Cap mesenchyme	Fetal
+Fetal Cap mesenchyme_pool2	Fetal Cap mesenchyme	Fetal
+Fetal Cap mesenchyme_pool3	Fetal Cap mesenchyme	Fetal
+Fetal Cap mesenchyme_pool4	Fetal Cap mesenchyme	Fetal
+Fetal Cap mesenchyme_pool5	Fetal Cap mesenchyme	Fetal
+Fetal Cap mesenchyme_pool6	Fetal Cap mesenchyme	Fetal
+Fetal Cap mesenchyme_pool7	Fetal Cap mesenchyme	Fetal
+Fetal Cap mesenchyme_pool8	Fetal Cap mesenchyme	Fetal
+Fetal Cap mesenchyme_pool9	Fetal Cap mesenchyme	Fetal
+Fetal Cap mesenchyme_pool10	Fetal Cap mesenchyme	Fetal
+Fetal Cap mesenchyme_pool11	Fetal Cap mesenchyme	Fetal
+Fetal Cap mesenchyme_pool12	Fetal Cap mesenchyme	Fetal
+Fetal Cap mesenchyme_pool13	Fetal Cap mesenchyme	Fetal
+Fetal Cap mesenchyme_pool14	Fetal Cap mesenchyme	Fetal
+Fetal Cap mesenchyme_pool15	Fetal Cap mesenchyme	Fetal
+Fetal Cap mesenchyme_pool16	Fetal Cap mesenchyme	Fetal
+Fetal Cap mesenchyme_pool17	Fetal Cap mesenchyme	Fetal
+Fetal Cap mesenchyme_pool18	Fetal Cap mesenchyme	Fetal
+Fetal Cap mesenchyme_pool19	Fetal Cap mesenchyme	Fetal
+Fetal Cap mesenchyme_pool20	Fetal Cap mesenchyme	Fetal
+Fetal Cap mesenchyme_pool21	Fetal Cap mesenchyme	Fetal
+Fetal Cap mesenchyme_pool22	Fetal Cap mesenchyme	Fetal
+Fetal Cap mesenchyme_pool23	Fetal Cap mesenchyme	Fetal
+Fetal Cap mesenchyme_pool24	Fetal Cap mesenchyme	Fetal
+Fetal Cap mesenchyme_pool25	Fetal Cap mesenchyme	Fetal
+Fetal Cap mesenchyme_pool26	Fetal Cap mesenchyme	Fetal
+Fetal Cap mesenchyme_pool27	Fetal Cap mesenchyme	Fetal
+Fetal Cap mesenchyme_pool28	Fetal Cap mesenchyme	Fetal
+Fetal Cap mesenchyme_pool29	Fetal Cap mesenchyme	Fetal
+Fetal CD4 T cell_pool1	Fetal CD4 T cell	Fetal
+Fetal CD4 T cell_pool2	Fetal CD4 T cell	Fetal
+Fetal CD4 T cell_pool3	Fetal CD4 T cell	Fetal
+Fetal cDC2_pool1	Fetal cDC2	Fetal
+Fetal cDC2_pool2	Fetal cDC2	Fetal
+Fetal cDC2_pool3	Fetal cDC2	Fetal
+Fetal cDC2_pool4	Fetal cDC2	Fetal
+Fetal cDC2_pool5	Fetal cDC2	Fetal
+Fetal CNT/PC - proximal UB_pool1	Fetal CNT/PC - proximal UB	Fetal
+Fetal CNT/PC - proximal UB_pool2	Fetal CNT/PC - proximal UB	Fetal
+Fetal CNT/PC - proximal UB_pool3	Fetal CNT/PC - proximal UB	Fetal
+Fetal CNT/PC - proximal UB_pool4	Fetal CNT/PC - proximal UB	Fetal
+Fetal Distal renal vesicle_pool1	Fetal Distal renal vesicle	Fetal
+Fetal Distal renal vesicle_pool2	Fetal Distal renal vesicle	Fetal
+Fetal Distal renal vesicle_pool3	Fetal Distal renal vesicle	Fetal
+Fetal Distal renal vesicle_pool4	Fetal Distal renal vesicle	Fetal
+Fetal Distal S shaped body_pool1	Fetal Distal S shaped body	Fetal
+Fetal Distal S shaped body_pool2	Fetal Distal S shaped body	Fetal
+Fetal Distal S shaped body_pool3	Fetal Distal S shaped body	Fetal
+Fetal Distal S shaped body_pool4	Fetal Distal S shaped body	Fetal
+Fetal Endothelium_pool1	Fetal Endothelium	Fetal
+Fetal Endothelium_pool2	Fetal Endothelium	Fetal
+Fetal Endothelium_pool3	Fetal Endothelium	Fetal
+Fetal Endothelium_pool4	Fetal Endothelium	Fetal
+Fetal Endothelium_pool5	Fetal Endothelium	Fetal
+Fetal Endothelium_pool6	Fetal Endothelium	Fetal
+Fetal Endothelium_pool7	Fetal Endothelium	Fetal
+Fetal Endothelium_pool8	Fetal Endothelium	Fetal
+Fetal Endothelium_pool9	Fetal Endothelium	Fetal
+Fetal Endothelium_pool10	Fetal Endothelium	Fetal
+Fetal Fibroblast 1_pool1	Fetal Fibroblast 1	Fetal
+Fetal Fibroblast 1_pool2	Fetal Fibroblast 1	Fetal
+Fetal Fibroblast 1_pool3	Fetal Fibroblast 1	Fetal
+Fetal Fibroblast 1_pool4	Fetal Fibroblast 1	Fetal
+Fetal Fibroblast 1_pool5	Fetal Fibroblast 1	Fetal
+Fetal Fibroblast 2_pool1	Fetal Fibroblast 2	Fetal
+Fetal Fibroblast 2_pool2	Fetal Fibroblast 2	Fetal
+Fetal Fibroblast 2_pool3	Fetal Fibroblast 2	Fetal
+Fetal Innate like lymphocyte_pool1	Fetal Innate like lymphocyte	Fetal
+Fetal Loop of Henle_pool1	Fetal Loop of Henle	Fetal
+Fetal Macrophage 1_pool1	Fetal Macrophage 1	Fetal
+Fetal Macrophage 1_pool2	Fetal Macrophage 1	Fetal
+Fetal Macrophage 1_pool3	Fetal Macrophage 1	Fetal
+Fetal Macrophage 1_pool4	Fetal Macrophage 1	Fetal
+Fetal Macrophage 1_pool5	Fetal Macrophage 1	Fetal
+Fetal Macrophage 1_pool6	Fetal Macrophage 1	Fetal
+Fetal Macrophage 1_pool7	Fetal Macrophage 1	Fetal
+Fetal Macrophage 1_pool8	Fetal Macrophage 1	Fetal
+Fetal Macrophage 1_pool9	Fetal Macrophage 1	Fetal
+Fetal Macrophage 1_pool10	Fetal Macrophage 1	Fetal
+Fetal Macrophage 1_pool11	Fetal Macrophage 1	Fetal
+Fetal Macrophage 1_pool12	Fetal Macrophage 1	Fetal
+Fetal Macrophage 2_pool1	Fetal Macrophage 2	Fetal
+Fetal Macrophage 2_pool2	Fetal Macrophage 2	Fetal
+Fetal Macrophage 2_pool3	Fetal Macrophage 2	Fetal
+Fetal Macrophage 2_pool4	Fetal Macrophage 2	Fetal
+Fetal Macrophage 2_pool5	Fetal Macrophage 2	Fetal
+Fetal Medial S shaped body_pool1	Fetal Medial S shaped body	Fetal
+Fetal Medial S shaped body_pool2	Fetal Medial S shaped body	Fetal
+Fetal Medial S shaped body_pool3	Fetal Medial S shaped body	Fetal
+Fetal Medial S shaped body_pool4	Fetal Medial S shaped body	Fetal
+Fetal Medial S shaped body_pool5	Fetal Medial S shaped body	Fetal
+Fetal Medial S shaped body_pool6	Fetal Medial S shaped body	Fetal
+Fetal Megakaryocyte_pool1	Fetal Megakaryocyte	Fetal
+Fetal Monocyte_pool1	Fetal Monocyte	Fetal
+Fetal Monocyte_pool2	Fetal Monocyte	Fetal
+Fetal Monocyte_pool3	Fetal Monocyte	Fetal
+Fetal Monocyte_pool4	Fetal Monocyte	Fetal
+Fetal Monocyte_pool5	Fetal Monocyte	Fetal
+Fetal Monocyte_pool6	Fetal Monocyte	Fetal
+Fetal Myofibroblast 1_pool1	Fetal Myofibroblast 1	Fetal
+Fetal Myofibroblast 1_pool2	Fetal Myofibroblast 1	Fetal
+Fetal Myofibroblast 1_pool3	Fetal Myofibroblast 1	Fetal
+Fetal Myofibroblast 1_pool4	Fetal Myofibroblast 1	Fetal
+Fetal Myofibroblast 1_pool5	Fetal Myofibroblast 1	Fetal
+Fetal Myofibroblast 1_pool6	Fetal Myofibroblast 1	Fetal
+Fetal Myofibroblast 1_pool7	Fetal Myofibroblast 1	Fetal
+Fetal Myofibroblast 1_pool8	Fetal Myofibroblast 1	Fetal
+Fetal Myofibroblast 1_pool9	Fetal Myofibroblast 1	Fetal
+Fetal Myofibroblast 1_pool10	Fetal Myofibroblast 1	Fetal
+Fetal Myofibroblast 1_pool11	Fetal Myofibroblast 1	Fetal
+Fetal Myofibroblast 1_pool12	Fetal Myofibroblast 1	Fetal
+Fetal Myofibroblast 1_pool13	Fetal Myofibroblast 1	Fetal
+Fetal Myofibroblast 1_pool14	Fetal Myofibroblast 1	Fetal
+Fetal Myofibroblast 2_pool1	Fetal Myofibroblast 2	Fetal
+Fetal Myofibroblast 2_pool2	Fetal Myofibroblast 2	Fetal
+Fetal Myofibroblast 2_pool3	Fetal Myofibroblast 2	Fetal
+Fetal Neutrophil_pool1	Fetal Neutrophil	Fetal
+Fetal NK cell_pool1	Fetal NK cell	Fetal
+Fetal NK cell_pool2	Fetal NK cell	Fetal
+Fetal NK cell_pool3	Fetal NK cell	Fetal
+Fetal NK cell_pool4	Fetal NK cell	Fetal
+Fetal NK cell_pool5	Fetal NK cell	Fetal
+Fetal Pelvic epithelium - distal UB_pool1	Fetal Pelvic epithelium - distal UB	Fetal
+Fetal Podocyte_pool1	Fetal Podocyte	Fetal
+Fetal Podocyte_pool2	Fetal Podocyte	Fetal
+Fetal Proliferating B cell_pool1	Fetal Proliferating B cell	Fetal
+Fetal Proliferating cap mesenchyme_pool1	Fetal Proliferating cap mesenchyme	Fetal
+Fetal Proliferating cap mesenchyme_pool2	Fetal Proliferating cap mesenchyme	Fetal
+Fetal Proliferating cap mesenchyme_pool3	Fetal Proliferating cap mesenchyme	Fetal
+Fetal Proliferating cap mesenchyme_pool4	Fetal Proliferating cap mesenchyme	Fetal
+Fetal Proliferating cap mesenchyme_pool5	Fetal Proliferating cap mesenchyme	Fetal
+Fetal Proliferating cap mesenchyme_pool6	Fetal Proliferating cap mesenchyme	Fetal
+Fetal Proliferating cap mesenchyme_pool7	Fetal Proliferating cap mesenchyme	Fetal
+Fetal Proliferating cap mesenchyme_pool8	Fetal Proliferating cap mesenchyme	Fetal
+Fetal Proliferating cap mesenchyme_pool9	Fetal Proliferating cap mesenchyme	Fetal
+Fetal Proliferating cap mesenchyme_pool10	Fetal Proliferating cap mesenchyme	Fetal
+Fetal Proliferating cap mesenchyme_pool11	Fetal Proliferating cap mesenchyme	Fetal
+Fetal Proliferating cap mesenchyme_pool12	Fetal Proliferating cap mesenchyme	Fetal
+Fetal Proliferating cap mesenchyme_pool13	Fetal Proliferating cap mesenchyme	Fetal
+Fetal Proliferating cDC2_pool1	Fetal Proliferating cDC2	Fetal
+Fetal Proliferating distal renal vesicle_pool1	Fetal Proliferating distal renal vesicle	Fetal
+Fetal Proliferating distal renal vesicle_pool2	Fetal Proliferating distal renal vesicle	Fetal
+Fetal Proliferating distal renal vesicle_pool3	Fetal Proliferating distal renal vesicle	Fetal
+Fetal Proliferating distal renal vesicle_pool4	Fetal Proliferating distal renal vesicle	Fetal
+Fetal Proliferating distal renal vesicle_pool5	Fetal Proliferating distal renal vesicle	Fetal
+Fetal Proliferating distal renal vesicle_pool6	Fetal Proliferating distal renal vesicle	Fetal
+Fetal Proliferating macrophage_pool1	Fetal Proliferating macrophage	Fetal
+Fetal Proliferating macrophage_pool2	Fetal Proliferating macrophage	Fetal
+Fetal Proliferating monocyte_pool1	Fetal Proliferating monocyte	Fetal
+Fetal Proliferating myofibroblast_pool1	Fetal Proliferating myofibroblast	Fetal
+Fetal Proliferating myofibroblast_pool2	Fetal Proliferating myofibroblast	Fetal
+Fetal Proliferating myofibroblast_pool3	Fetal Proliferating myofibroblast	Fetal
+Fetal Proliferating stroma progenitor_pool1	Fetal Proliferating stroma progenitor	Fetal
+Fetal Proliferating stroma progenitor_pool2	Fetal Proliferating stroma progenitor	Fetal
+Fetal Proliferating stroma progenitor_pool3	Fetal Proliferating stroma progenitor	Fetal
+Fetal Proliferating stroma progenitor_pool4	Fetal Proliferating stroma progenitor	Fetal
+Fetal Proliferating stroma progenitor_pool5	Fetal Proliferating stroma progenitor	Fetal
+Fetal Proximal renal vesicle_pool1	Fetal Proximal renal vesicle	Fetal
+Fetal Proximal renal vesicle_pool2	Fetal Proximal renal vesicle	Fetal
+Fetal Proximal S shaped body_pool1	Fetal Proximal S shaped body	Fetal
+Fetal Proximal S shaped body_pool2	Fetal Proximal S shaped body	Fetal
+Fetal Proximal S shaped body_pool3	Fetal Proximal S shaped body	Fetal
+Fetal Proximal S shaped body_pool4	Fetal Proximal S shaped body	Fetal
+Fetal Proximal S shaped body_pool5	Fetal Proximal S shaped body	Fetal
+Fetal Proximal tubule_pool1	Fetal Proximal tubule	Fetal
+Fetal Proximal tubule_pool2	Fetal Proximal tubule	Fetal
+Fetal Proximal tubule_pool3	Fetal Proximal tubule	Fetal
+Fetal Proximal tubule_pool4	Fetal Proximal tubule	Fetal
+Fetal Proximal tubule_pool5	Fetal Proximal tubule	Fetal
+Fetal Proximal UB_pool1	Fetal Proximal UB	Fetal
+Fetal Proximal UB_pool2	Fetal Proximal UB	Fetal
+Fetal Proximal UB_pool3	Fetal Proximal UB	Fetal
+Fetal Stroma progenitor_pool1	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool2	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool3	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool4	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool5	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool6	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool7	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool8	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool9	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool10	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool11	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool12	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool13	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool14	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool15	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool16	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool17	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool18	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool19	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool20	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool21	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool22	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool23	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool24	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool25	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool26	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool27	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool28	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool29	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool30	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool31	Fetal Stroma progenitor	Fetal
+Fetal Stroma progenitor_pool32	Fetal Stroma progenitor	Fetal
+Mature Ascending vasa recta endothelium_pool1	Mature Ascending vasa recta endothelium	Mature
+Mature Ascending vasa recta endothelium_pool2	Mature Ascending vasa recta endothelium	Mature
+Mature B cell_pool1	Mature B cell	Mature
+Mature B cell_pool2	Mature B cell	Mature
+Mature B cell_pool3	Mature B cell	Mature
+Mature B cell_pool4	Mature B cell	Mature
+Mature B cell_pool5	Mature B cell	Mature
+Mature B cell_pool6	Mature B cell	Mature
+Mature B cell_pool7	Mature B cell	Mature
+Mature B cell_pool8	Mature B cell	Mature
+Mature CD4 T cell_pool1	Mature CD4 T cell	Mature
+Mature CD4 T cell_pool2	Mature CD4 T cell	Mature
+Mature CD4 T cell_pool3	Mature CD4 T cell	Mature
+Mature CD4 T cell_pool4	Mature CD4 T cell	Mature
+Mature CD4 T cell_pool5	Mature CD4 T cell	Mature
+Mature CD4 T cell_pool6	Mature CD4 T cell	Mature
+Mature CD4 T cell_pool7	Mature CD4 T cell	Mature
+Mature CD4 T cell_pool8	Mature CD4 T cell	Mature
+Mature CD4 T cell_pool9	Mature CD4 T cell	Mature
+Mature CD4 T cell_pool10	Mature CD4 T cell	Mature
+Mature CD4 T cell_pool11	Mature CD4 T cell	Mature
+Mature CD4 T cell_pool12	Mature CD4 T cell	Mature
+Mature CD4 T cell_pool13	Mature CD4 T cell	Mature
+Mature CD4 T cell_pool14	Mature CD4 T cell	Mature
+Mature CD4 T cell_pool15	Mature CD4 T cell	Mature
+Mature CD4 T cell_pool16	Mature CD4 T cell	Mature
+Mature CD4 T cell_pool17	Mature CD4 T cell	Mature
+Mature CD4 T cell_pool18	Mature CD4 T cell	Mature
+Mature CD4 T cell_pool19	Mature CD4 T cell	Mature
+Mature CD4 T cell_pool20	Mature CD4 T cell	Mature
+Mature CD8 T cell_pool1	Mature CD8 T cell	Mature
+Mature CD8 T cell_pool2	Mature CD8 T cell	Mature
+Mature CD8 T cell_pool3	Mature CD8 T cell	Mature
+Mature CD8 T cell_pool4	Mature CD8 T cell	Mature
+Mature CD8 T cell_pool5	Mature CD8 T cell	Mature
+Mature CD8 T cell_pool6	Mature CD8 T cell	Mature
+Mature CD8 T cell_pool7	Mature CD8 T cell	Mature
+Mature CD8 T cell_pool8	Mature CD8 T cell	Mature
+Mature Connecting tubule_pool1	Mature Connecting tubule	Mature
+Mature Descending vasa recta endothelium_pool1	Mature Descending vasa recta endothelium	Mature
+Mature Distinct proximal tubule 2_pool1	Mature Distinct proximal tubule 2	Mature
+Mature Epithelial progenitor cell_pool1	Mature Epithelial progenitor cell	Mature
+Mature Glomerular endothelium_pool1	Mature Glomerular endothelium	Mature
+Mature Glomerular endothelium_pool2	Mature Glomerular endothelium	Mature
+Mature Glomerular endothelium_pool3	Mature Glomerular endothelium	Mature
+Mature Glomerular endothelium_pool4	Mature Glomerular endothelium	Mature
+Mature Glomerular endothelium_pool5	Mature Glomerular endothelium	Mature
+Mature Indistinct intercalated cell_pool1	Mature Indistinct intercalated cell	Mature
+Mature Indistinct intercalated cell_pool2	Mature Indistinct intercalated cell	Mature
+Mature Indistinct intercalated cell_pool3	Mature Indistinct intercalated cell	Mature
+Mature MNP-a/classical monocyte derived_pool1	Mature MNP-a/classical monocyte derived	Mature
+Mature MNP-a/classical monocyte derived_pool2	Mature MNP-a/classical monocyte derived	Mature
+Mature MNP-a/classical monocyte derived_pool3	Mature MNP-a/classical monocyte derived	Mature
+Mature MNP-a/classical monocyte derived_pool4	Mature MNP-a/classical monocyte derived	Mature
+Mature MNP-b/non-classical monocyte derived_pool1	Mature MNP-b/non-classical monocyte derived	Mature
+Mature MNP-b/non-classical monocyte derived_pool2	Mature MNP-b/non-classical monocyte derived	Mature
+Mature MNP-b/non-classical monocyte derived_pool3	Mature MNP-b/non-classical monocyte derived	Mature
+Mature MNP-c/dendritic cell_pool1	Mature MNP-c/dendritic cell	Mature
+Mature Myofibroblast_pool1	Mature Myofibroblast	Mature
+Mature NK cell_pool1	Mature NK cell	Mature
+Mature NK cell_pool2	Mature NK cell	Mature
+Mature NK cell_pool3	Mature NK cell	Mature
+Mature NK cell_pool4	Mature NK cell	Mature
+Mature NK cell_pool5	Mature NK cell	Mature
+Mature NK cell_pool6	Mature NK cell	Mature
+Mature NK cell_pool7	Mature NK cell	Mature
+Mature NK cell_pool8	Mature NK cell	Mature
+Mature NK cell_pool9	Mature NK cell	Mature
+Mature NK cell_pool10	Mature NK cell	Mature
+Mature NK cell_pool11	Mature NK cell	Mature
+Mature NKT cell_pool1	Mature NKT cell	Mature
+Mature NKT cell_pool2	Mature NKT cell	Mature
+Mature NKT cell_pool3	Mature NKT cell	Mature
+Mature NKT cell_pool4	Mature NKT cell	Mature
+Mature NKT cell_pool5	Mature NKT cell	Mature
+Mature NKT cell_pool6	Mature NKT cell	Mature
+Mature Pelvic epithelium_pool1	Mature Pelvic epithelium	Mature
+Mature Peritubular capillary endothelium 1_pool1	Mature Peritubular capillary endothelium 1	Mature
+Mature Peritubular capillary endothelium 1_pool2	Mature Peritubular capillary endothelium 1	Mature
+Mature Peritubular capillary endothelium 1_pool3	Mature Peritubular capillary endothelium 1	Mature
+Mature Peritubular capillary endothelium 1_pool4	Mature Peritubular capillary endothelium 1	Mature
+Mature Peritubular capillary endothelium 1_pool5	Mature Peritubular capillary endothelium 1	Mature
+Mature Peritubular capillary endothelium 2_pool1	Mature Peritubular capillary endothelium 2	Mature
+Mature Podocyte_pool1	Mature Podocyte	Mature
+Mature Proliferating Proximal Tubule_pool1	Mature Proliferating Proximal Tubule	Mature
+Mature Proliferating Proximal Tubule_pool2	Mature Proliferating Proximal Tubule	Mature
+Mature Proximal tubule_pool1	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool2	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool3	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool4	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool5	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool6	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool7	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool8	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool9	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool10	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool11	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool12	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool13	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool14	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool15	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool16	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool17	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool18	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool19	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool20	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool21	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool22	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool23	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool24	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool25	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool26	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool27	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool28	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool29	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool30	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool31	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool32	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool33	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool34	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool35	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool36	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool37	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool38	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool39	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool40	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool41	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool42	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool43	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool44	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool45	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool46	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool47	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool48	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool49	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool50	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool51	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool52	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool53	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool54	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool55	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool56	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool57	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool58	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool59	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool60	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool61	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool62	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool63	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool64	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool65	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool66	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool67	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool68	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool69	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool70	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool71	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool72	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool73	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool74	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool75	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool76	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool77	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool78	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool79	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool80	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool81	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool82	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool83	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool84	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool85	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool86	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool87	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool88	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool89	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool90	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool91	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool92	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool93	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool94	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool95	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool96	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool97	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool98	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool99	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool100	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool101	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool102	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool103	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool104	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool105	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool106	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool107	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool108	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool109	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool110	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool111	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool112	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool113	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool114	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool115	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool116	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool117	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool118	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool119	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool120	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool121	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool122	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool123	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool124	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool125	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool126	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool127	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool128	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool129	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool130	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool131	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool132	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool133	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool134	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool135	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool136	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool137	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool138	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool139	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool140	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool141	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool142	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool143	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool144	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool145	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool146	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool147	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool148	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool149	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool150	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool151	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool152	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool153	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool154	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool155	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool156	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool157	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool158	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool159	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool160	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool161	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool162	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool163	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool164	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool165	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool166	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool167	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool168	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool169	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool170	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool171	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool172	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool173	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool174	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool175	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool176	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool177	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool178	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool179	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool180	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool181	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool182	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool183	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool184	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool185	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool186	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool187	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool188	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool189	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool190	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool191	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool192	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool193	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool194	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool195	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool196	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool197	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool198	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool199	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool200	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool201	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool202	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool203	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool204	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool205	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool206	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool207	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool208	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool209	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool210	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool211	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool212	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool213	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool214	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool215	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool216	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool217	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool218	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool219	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool220	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool221	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool222	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool223	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool224	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool225	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool226	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool227	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool228	Mature Proximal tubule	Mature
+Mature Proximal tubule_pool229	Mature Proximal tubule	Mature
+Mature Thick ascending limb of Loop of Henle_pool1	Mature Thick ascending limb of Loop of Henle	Mature
+Mature Thick ascending limb of Loop of Henle_pool2	Mature Thick ascending limb of Loop of Henle	Mature
+Mature Thick ascending limb of Loop of Henle_pool3	Mature Thick ascending limb of Loop of Henle	Mature
+Mature Thick ascending limb of Loop of Henle_pool4	Mature Thick ascending limb of Loop of Henle	Mature
+Mature Thick ascending limb of Loop of Henle_pool5	Mature Thick ascending limb of Loop of Henle	Mature
+Mature Type A intercalated cell_pool1	Mature Type A intercalated cell	Mature
+Mature Type A intercalated cell_pool2	Mature Type A intercalated cell	Mature
+Mature Type B intercalated cell_pool1	Mature Type B intercalated cell	Mature
