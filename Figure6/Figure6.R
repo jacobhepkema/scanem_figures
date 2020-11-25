@@ -16,9 +16,7 @@ suppressMessages(library(mixtools))
 
 options(stringsAsFactors = FALSE)
 
-setwd("~/scanem_pytorch/data_gen/FigureGithub/Figure6/")
-
-suppressMessages(source("../scanem_helper_functions.R"))
+suppressMessages(source("../scover_helper_functions.R"))
 heatmap_colors <- colorRampPalette(c("magenta", "black", "yellow"))(100)
 
 outdir <- "output/"
@@ -44,7 +42,7 @@ num_celltypes <- length(unique(curr_sce_p0$cell_type1))
 threshold <- 0.05
 
 # Network output: "leave-one-out" (LOO) influence scores for 10 different models
-influence_scores_hdf5 <- H5Fopen("scanem_output/20201015_All_leave_change_HDF5_ss_p0_exin_pool100_noprom_8u5d_newscanem_2.h5")
+influence_scores_hdf5 <- H5Fopen("scover_output/All_LOO_HDF5_P0_exin_pool100_noprom_8u5d.h5")
 q <- h5ls(influence_scores_hdf5)
 prefixes <- unique(sapply(q$name, function(x) {str_split(x, "_")[[1]][2] } ))
 d <- 600
@@ -72,7 +70,7 @@ codes <- sapply(db, FUN=function(x){ str_split(x, " ")[[1]][2] })
 names <- sapply(db, FUN=function(x){ str_split(x, " ")[[1]][3] })
 names(names) <- codes
 
-all_tom_table <- read.delim("scanem_output/p0_all_tomtom/tomtom.tsv", sep="\t",quote = "", header = T, 
+all_tom_table <- read.delim("scover_output/p0_all_tomtom/tomtom.tsv", sep="\t",quote = "", header = T, 
                             comment.char = "#")
 all_tom_table$Target_ID <- names[all_tom_table$Target_ID]
 all_tom_table$Target_ID <- sapply(all_tom_table$Target_ID, function(x){
@@ -348,9 +346,6 @@ ggsave(paste0(outdir, "/Fig6c_1.pdf"),
 
 
 
-
-
-
 # Now for adult
 
 # Cell type labels for dataset. Row names are pool names, $cell_type1 contains cell type labels.
@@ -371,7 +366,7 @@ num_celltypes <- length(unique(curr_sce_adult$cell_type1))
 threshold <- 0.05
 
 # Network output: "leave-one-out" (LOO) influence scores for 10 different models
-influence_scores_hdf5 <- H5Fopen("scanem_output/20201015_All_leave_change_HDF5_ss_adult_exinonly_pool100_noprom_8u5d_2.h5")
+influence_scores_hdf5 <- H5Fopen("scover_output/All_LOO_HDF5_ADULT_exin_pool100_noprom_8u5d.h5")
 q <- h5ls(influence_scores_hdf5)
 prefixes <- unique(sapply(q$name, function(x) {str_split(x, "_")[[1]][2] } ))
 d <- 300
@@ -399,7 +394,7 @@ codes <- sapply(db, FUN=function(x){ str_split(x, " ")[[1]][2] })
 names <- sapply(db, FUN=function(x){ str_split(x, " ")[[1]][3] })
 names(names) <- codes
 
-all_tom_table <- read.delim("scanem_output/adult_all_tomtom/tomtom.tsv", sep="\t",quote = "", header = T, 
+all_tom_table <- read.delim("scover_output/adult_all_tomtom/tomtom.tsv", sep="\t",quote = "", header = T, 
                             comment.char = "#")
 all_tom_table$Target_ID <- names[all_tom_table$Target_ID]
 all_tom_table$Target_ID <- sapply(all_tom_table$Target_ID, function(x){
