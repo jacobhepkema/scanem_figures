@@ -1,7 +1,7 @@
 # Creating Figure 6
 
-Download `` from 
-[this page](https://scover-figures-data.cog.sanger.ac.uk/browser.html) and place in `scover_output` folder.
+Download `P0_motif_activations_mat.RDS` and `ADULT_motif_activations_mat.RDS` from 
+[this page](https://scover-figures-data.cog.sanger.ac.uk/browser.html) and place in the `data` folder.
 
 Make sure the right R package versions are installed. See list of packages that I am using at the end of this page. 
 
