@@ -1,6 +1,6 @@
 # Creating Figure 4 and 5
 
-Download `` from 
+Download `All_motif_activations_HDF5_tm_all_7_organs_pool80_5u5d_600mot_3.h5` from 
 [this page](https://scover-figures-data.cog.sanger.ac.uk/browser.html) and place in `scover_output` folder.
 
 Make sure the right R package versions are installed. I am using:
